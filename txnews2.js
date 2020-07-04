@@ -42,8 +42,8 @@ hostname = api.inews.qq.com
 Cookie获取后，请注释掉Cookie地址。
 
 */
-const notifyInterval = 5 //视频红包间隔通知开为1，常关为0
-const logs = 1; // 日志开关，0为关，1为开
+const notifyInterval = 1 //视频红包间隔通知开为1，常关为0
+const logs = 0; // 日志开关，0为关，1为开
 const cookieName = '腾讯新闻'
 const sy = init()
 const signurlVal = sy.getdata('sy_signurl_txnews2')
