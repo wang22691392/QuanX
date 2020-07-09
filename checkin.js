@@ -181,7 +181,7 @@ GitHub: Neurogram-R
 */
 
 const accounts = [
-    ["prprCloud", "https://prprcloud.xyz/auth/login", "nights_watches@protonmail.com", "wang86565807"],
+    ["prprCloud", "https://console.prprcloud.co/auth/login", "nights_watches@protonmail.com", "wang86565807"],
     ["Fast-Fish", "http://fast-fish.cc/auth/login", "nights_watches@protonmail.com", "wang86565807"]
 ]
 
