@@ -182,7 +182,7 @@ GitHub: Neurogram-R
 
 const accounts = [
     ["prprCloud", "https://console.prprcloud.co/auth/login", "nights_watches@protonmail.com", "wang86565807"],
-    ["Fast-Fish", "http://fast-fish.cc/auth/login", "nights_watches@protonmail.com", "wang86565807"]
+    ["Fast-Fish", "http://fast-fish.me/auth/login", "nights_watches@protonmail.com", "wang86565807"]
 ]
 
 const autoLogout = false
