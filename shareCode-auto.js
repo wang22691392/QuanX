@@ -92,7 +92,7 @@ $.random = Math.floor(Math.random() * 60);
     await $.wait($.random);
     joy &&
       (await create(
-        `https://code.chiang.fun/api/v1/jd/jdcrazyjoy/create//${joy}/`,
+        `https://code.chiang.fun/api/v1/jd/jdcrazyjoy/create/${joy}/`,
         "京东joy"
       ));
   }
