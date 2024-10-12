@@ -8,7 +8,7 @@
 **************************************
 
 [rewrite_local]
-^https:\/\/footprint-api\.quthing\.com\/vip\/state url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/lgzj.jhttps://raw.githubusercontent.com/wang22691392/QuanX/refs/heads/master/lgzj.js
+^https:\/\/footprint-api\.quthing\.com\/vip\/state url script-response-body https://raw.githubusercontent.com/wang22691392/QuanX/refs/heads/master/lgzj.js
 
 [mitm]
 hostname = footprint-api.quthing.com
