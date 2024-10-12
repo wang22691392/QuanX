@@ -4,8 +4,7 @@
 
 [rewrite_local]
 
-https://www.xiaoxiongyouhao.com/api/vip/index.php url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/xiaoxiongyouhao.js
-
+https://www.xiaoxiongyouhao.com/api/vip/index.php url script-response-body https://raw.githubusercontent.com/wang22691392/QuanX/refs/heads/master/xxyh.js
 [mitm] 
 
 hostname = www.xiaoxiongyouhao.com
