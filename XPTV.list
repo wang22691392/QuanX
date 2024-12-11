@@ -1,7 +1,6 @@
 #!url=https://raw.githubusercontent.com/fangkuia/XPTV/main/X/xptv.sgmodule
 #!name=XPTV规则
 #!desc=仅直连
-[Rule]
 #已标注了大部分可直连的地址,遇到无法直连的情况自行调整
 #XPTV主站-部分地区可以直连自行尝试
 #HOST, infuseku.xyz, DIRECT
