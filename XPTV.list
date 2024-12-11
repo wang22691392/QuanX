@@ -4,144 +4,144 @@
 [Rule]
 #已标注了大部分可直连的地址,遇到无法直连的情况自行调整
 #XPTV主站-部分地区可以直连自行尝试
-#DOMAIN, infuseku.xyz, DIRECT
+#HOST, infuseku.xyz, DIRECT
 #iCloud同步
-DOMAIN, gateway.icloud.com, DIRECT
-DOMAIN, metrics.icloud.com, DIRECT
+HOST, gateway.icloud.com, DIRECT
+HOST, metrics.icloud.com, DIRECT
 #XPTV封面来源
 #小海报
-DOMAIN-SUFFIX, doubanio.com, DIRECT
+HOST-SUFFIX, doubanio.com, DIRECT
 #大封面
-DOMAIN, image.tmdb.org, DIRECT
+;HOST, image.tmdb.org, DIRECT
 #弹幕
-DOMAIN, dandanplay.net, DIRECT
+HOST, dandanplay.net, DIRECT
 #网盘规则
 #阿里
-DOMAIN-SUFFIX, aliyundrive.com, DIRECT
-DOMAIN-SUFFIX, voicehub.top, DIRECT
+HOST-SUFFIX, aliyundrive.com, DIRECT
+HOST-SUFFIX, voicehub.top, DIRECT
 #夸克
-DOMAIN-SUFFIX, quark.cn, DIRECT
+HOST-SUFFIX, quark.cn, DIRECT
 #天翼
-DOMAIN-SUFFIX, 189.cn, DIRECT
-DOMAIN-SUFFIX, ctyunxs.cn, DIRECT
+HOST-SUFFIX, 189.cn, DIRECT
+HOST-SUFFIX, ctyunxs.cn, DIRECT
 #115
-DOMAIN-SUFFIX, 115.com, DIRECT
+HOST-SUFFIX, 115.com, DIRECT
 #uc
-DOMAIN-SUFFIX, uc.cn, DIRECT
+HOST-SUFFIX, uc.cn, DIRECT
 #小雅
-DOMAIN-SUFFIX, xiaoya.pro, DIRECT
+HOST-SUFFIX, xiaoya.pro, DIRECT
 #网盘源
 #小米
-DOMAIN, mihdr.top, DIRECT
+HOST, mihdr.top, DIRECT
 #木偶
-DOMAIN-SUFFIX, mogg.top, DIRECT
+HOST-SUFFIX, mogg.top, DIRECT
 #玩偶
-DOMAIN-SUFFIX, wogg.net, DIRECT
+HOST-SUFFIX, wogg.net, DIRECT
 #雷鲸
-DOMAIN, www.leijing.xyz, DIRECT
+HOST, www.leijing.xyz, DIRECT
 #校长
-DOMAIN, xzys.fun, DIRECT
+HOST, xzys.fun, DIRECT
 #蜡笔
-DOMAIN-SUFFIX, duopan.fun, DIRECT
+HOST-SUFFIX, duopan.fun, DIRECT
 #南风
-DOMAIN, www.nanf.cc, DIRECT
+HOST, www.nanf.cc, DIRECT
 #多多
-DOMAIN, yydsys.top, DIRECT
+HOST, yydsys.top, DIRECT
 #欧歌
-DOMAIN, woog.nxog.eu.org, DIRECT
+HOST, woog.nxog.eu.org, DIRECT
 #云盘吧
-DOMAIN, yunpan8.cc, DIRECT
+HOST, yunpan8.cc, DIRECT
 #nmlive相关
-DOMAIN-SUFFIX, bilivideo.com, DIRECT
-DOMAIN, slink.ltd, DIRECT
-DOMAIN-SUFFIX, douyincdn.com, DIRECT
-DOMAIN-SUFFIX, douyinpic.com, DIRECT
-DOMAIN-SUFFIX, douyucdn.cn, DIRECT
-DOMAIN-SUFFIX, douyucdn2.cn, DIRECT
-DOMAIN-SUFFIX, huya.com, DIRECT
-DOMAIN-SUFFIX, msstatic.com, DIRECT
-DOMAIN, lemonlive.deno.dev, DIRECT
+HOST-SUFFIX, bilivideo.com, DIRECT
+HOST, slink.ltd, DIRECT
+HOST-SUFFIX, douyincdn.com, DIRECT
+HOST-SUFFIX, douyinpic.com, DIRECT
+HOST-SUFFIX, douyucdn.cn, DIRECT
+HOST-SUFFIX, douyucdn2.cn, DIRECT
+HOST-SUFFIX, huya.com, DIRECT
+HOST-SUFFIX, msstatic.com, DIRECT
+HOST, lemonlive.deno.dev, DIRECT
 #VOD源
 #低端主页与播放
-DOMAIN-SUFFIX, ddys.pro, DIRECT
+HOST-SUFFIX, ddys.pro, DIRECT
 #AGE主页
-DOMAIN-SUFFIX, agedm.org, DIRECT
+HOST-SUFFIX, agedm.org, DIRECT
 #ギリギリ主页
-DOMAIN, anime.girigirilove.com, DIRECT
+HOST, anime.girigirilove.com, DIRECT
 #播放
-DOMAIN, love.girigirilove.com, DIRECT
-DOMAIN, m3u8.girigirilove.com, DIRECT
+HOST, love.girigirilove.com, DIRECT
+HOST, m3u8.girigirilove.com, DIRECT
 #瓜子主页
-DOMAIN, api.9cec79d.com, DIRECT
+HOST, api.9cec79d.com, DIRECT
 #播放
-DOMAIN, wjm.kemfsj.com, DIRECT
+HOST, wjm.kemfsj.com, DIRECT
 #4k-av播放
-DOMAIN, www.4k-av.com, DIRECT
+HOST, www.4k-av.com, DIRECT
 #囧动漫主页
 IP-CIDR, 43.142.232.217/32, DIRECT, no-resolve
 #播放
-DOMAIN-SUFFIX, fanchenstatic.com, DIRECT
-DOMAIN, i0.hdslb.com, DIRECT
-DOMAIN-SUFFIX, bsgslb.cn, DIRECT
-DOMAIN-SUFFIX, bytetos.com, DIRECT
-DOMAIN-SUFFIX, douyinvod.com, DIRECT
-DOMAIN-SUFFIX, byteimg.com, DIRECT
+HOST-SUFFIX, fanchenstatic.com, DIRECT
+HOST, i0.hdslb.com, DIRECT
+HOST-SUFFIX, bsgslb.cn, DIRECT
+HOST-SUFFIX, bytetos.com, DIRECT
+HOST-SUFFIX, douyinvod.com, DIRECT
+HOST-SUFFIX, byteimg.com, DIRECT
 IP-CIDR, 110.41.171.181/32, DIRECT, no-resolve
 IP-CIDR, 49.235.143.104/32, DIRECT, no-resolve
-DOMAIN-SUFFIX, xhscdn.com, DIRECT
-DOMAIN-SUFFIX, bdxiguastatic.com, DIRECT
-DOMAIN-SUFFIX, zshtys888.com, DIRECT
+HOST-SUFFIX, xhscdn.com, DIRECT
+HOST-SUFFIX, bdxiguastatic.com, DIRECT
+HOST-SUFFIX, zshtys888.com, DIRECT
 #libvio主页
-DOMAIN, www.libvio.cc, DIRECT
+HOST, www.libvio.cc, DIRECT
 #播放
-DOMAIN-SUFFIX, mcloud.139.com, DIRECT
-DOMAIN-SUFFIX, libvio.cloud, DIRECT
+HOST-SUFFIX, mcloud.139.com, DIRECT
+HOST-SUFFIX, libvio.cloud, DIRECT
 #anfuns相关
-DOMAIN-SUFFIX, anfuns.org, DIRECT
-DOMAIN-SUFFIX, bytegiftia.top, DIRECT
-DOMAIN-SUFFIX, lenovo.com.cn, DIRECT
-DOMAIN, image.zhihuishu.com, DIRECT
-DOMAIN, presale.111.com.cn, DIRECT
+HOST-SUFFIX, anfuns.org, DIRECT
+HOST-SUFFIX, bytegiftia.top, DIRECT
+HOST-SUFFIX, lenovo.com.cn, DIRECT
+HOST, image.zhihuishu.com, DIRECT
+HOST, presale.111.com.cn, DIRECT
 #hdmoli主页
-DOMAIN, hdmoli.pro, DIRECT
+HOST, hdmoli.pro, DIRECT
 #播放
-DOMAIN, v.damoli.pro, DIRECT
+HOST, v.damoli.pro, DIRECT
 #哔嘀影视主页
-DOMAIN, www.xlys01.com, DIRECT
+HOST, www.xlys01.com, DIRECT
 #播放
-DOMAIN-SUFFIX, bytetos.com, DIRECT
+HOST-SUFFIX, bytetos.com, DIRECT
 #烧火影视主页
-DOMAIN, saohuo.tv, DIRECT
+HOST, saohuo.tv, DIRECT
 #播放
-DOMAIN, hhjx.hhplayer.comundefined, DIRECT
-DOMAIN-SUFFIX, video.iqiyi.com, DIRECT
-DOMAIN-SUFFIX, qitu-zuida.com, DIRECT
-DOMAIN, om.tc.qq.com, DIRECT
-DOMAIN-SUFFIX, ibytedtos.com, DIRECT
-DOMAIN-SUFFIX, 1ljx.com, DIRECT
-DOMAIN-SUFFIX, smtcdns.com, DIRECT
-DOMAIN, cme-video.vod-qcloud.com, DIRECT
-DOMAIN, hhjx.hhplayer.com, DIRECT
+HOST, hhjx.hhplayer.comundefined, DIRECT
+HOST-SUFFIX, video.iqiyi.com, DIRECT
+HOST-SUFFIX, qitu-zuida.com, DIRECT
+HOST, om.tc.qq.com, DIRECT
+HOST-SUFFIX, ibytedtos.com, DIRECT
+HOST-SUFFIX, 1ljx.com, DIRECT
+HOST-SUFFIX, smtcdns.com, DIRECT
+HOST, cme-video.vod-qcloud.com, DIRECT
+HOST, hhjx.hhplayer.com, DIRECT
 #NO視頻主页
-DOMAIN, www.novipnoad.net, DIRECT
+HOST, www.novipnoad.net, DIRECT
 #播放
-DOMAIN-SUFFIX, novipnoad.net, DIRECT
+HOST-SUFFIX, novipnoad.net, DIRECT
 #韩剧看看主页
-DOMAIN, www.hanjukankan.com, DIRECT
-DOMAIN, glzx.thekutv.com, DIRECT
+HOST, www.hanjukankan.com, DIRECT
+HOST, glzx.thekutv.com, DIRECT
 #播放
-DOMAIN-SUFFIX, thehanju.com, DIRECT
-DOMAIN-SUFFIX, vvddoo.com, DIRECT
+HOST-SUFFIX, thehanju.com, DIRECT
+HOST-SUFFIX, vvddoo.com, DIRECT
 #星芽主页
-DOMAIN, qiniu.rongjuwh.cn, DIRECT
-DOMAIN, app.whjzjx.cn, DIRECT
-DOMAIN, u.shytkjgs.com, DIRECT
+HOST, qiniu.rongjuwh.cn, DIRECT
+HOST, app.whjzjx.cn, DIRECT
+HOST, u.shytkjgs.com, DIRECT
 #播放
 IP-CIDR, 218.22.23.189/32, DIRECT, no-resolve
 IP-CIDR, 117.68.35.135/32, DIRECT, no-resolve
 IP-CIDR, 218.22.23.229/32, DIRECT, no-resolve
-DOMAIN-SUFFIX, qnqcdn.net, DIRECT
-DOMAIN-SUFFIX, xingya.com.cn, DIRECT
+HOST-SUFFIX, qnqcdn.net, DIRECT
+HOST-SUFFIX, xingya.com.cn, DIRECT
 IP-CIDR, 117.68.35.139/32, DIRECT, no-resolve
 #小苹果播放
 IP-CIDR, 163.123.192.184/32, DIRECT, no-resolve
@@ -155,372 +155,372 @@ IP-CIDR, 163.123.192.108/32, DIRECT, no-resolve
 IP-CIDR, 163.123.192.29/32, DIRECT, no-resolve
 IP-CIDR, 205.178.182.52/32, DIRECT, no-resolve
 IP-CIDR, 163.123.192.17/32, DIRECT, no-resolve
-DOMAIN, c.xpgtv.net, DIRECT
+HOST, c.xpgtv.net, DIRECT
 #厂长主页
-DOMAIN, www.czzyvideo.com, DIRECT
+HOST, www.czzyvideo.com, DIRECT
 #播放
-DOMAIN, qimgs.qunarzz.com, DIRECT
-DOMAIN, lf16-fe.resso.me, DIRECT
-DOMAIN-SUFFIX, akamaized.net, DIRECT
-DOMAIN, t001.czzy.fun, DIRECT
-DOMAIN, vunyundun.czys.art, DIRECT
-DOMAIN-SUFFIX, larksuitecdn.com, DIRECT
-DOMAIN, dc.xhscdn.com, DIRECT
-DOMAIN, mdn.alipayobjects.com, DIRECT
+HOST, qimgs.qunarzz.com, DIRECT
+HOST, lf16-fe.resso.me, DIRECT
+HOST-SUFFIX, akamaized.net, DIRECT
+HOST, t001.czzy.fun, DIRECT
+HOST, vunyundun.czys.art, DIRECT
+HOST-SUFFIX, larksuitecdn.com, DIRECT
+HOST, dc.xhscdn.com, DIRECT
+HOST, mdn.alipayobjects.com, DIRECT
 #天天主页
-DOMAIN, op.ysdqjs.cn, DIRECT
+HOST, op.ysdqjs.cn, DIRECT
 #在线之家主页--播放地址是ctyunxs.cn,在天翼里有
-DOMAIN-SUFFIX, zxzja.com, DIRECT
+HOST-SUFFIX, zxzja.com, DIRECT
 #素白白主页--播放地址是dc.xhscdn.com,在厂长里有
-DOMAIN, www.subaibaiys.com, DIRECT
+HOST, www.subaibaiys.com, DIRECT
 #CMS源
 #360主页
-DOMAIN, 360zy.com, DIRECT
+HOST, 360zy.com, DIRECT
 #播放
-DOMAIN, vod.lyhuicheng.com, DIRECT
+HOST, vod.lyhuicheng.com, DIRECT
 #非凡主页和播放
-DOMAIN-KEYWORD, ffzy, DIRECT
+HOST-KEYWORD, ffzy, DIRECT
 #墨斗主页
-DOMAIN, www.mdzyapi.com, DIRECT
+HOST, www.mdzyapi.com, DIRECT
 #黑木耳主页
-DOMAIN-SUFFIX, heimuer.tv, DIRECT
-DOMAIN-SUFFIX, heimuer.xyz, DIRECT
+HOST-SUFFIX, heimuer.tv, DIRECT
+HOST-SUFFIX, heimuer.xyz, DIRECT
 #播放
-DOMAIN, 2bzfvku2xwu7.com, DIRECT
-DOMAIN, n9ihkvv1ytjr.com, DIRECT
-DOMAIN, 0cicgw0mte7y.com, DIRECT
-DOMAIN, r5oa1oqwh6gz.com, DIRECT
-DOMAIN, knfuzimvbmwr.com, DIRECT
-DOMAIN, ucul8pjt6v6h.com, DIRECT
-DOMAIN, 5pvheva17etb.com, DIRECT
-DOMAIN, k6qgunhk9wuk.com, DIRECT
-DOMAIN, 0uxzzy8thov3.com, DIRECT
-DOMAIN, 5dagx9am9sai.com, DIRECT
-DOMAIN, omgyesityyhl.com, DIRECT
-DOMAIN, eucjzvub6vhr.com, DIRECT
-DOMAIN, tficf2xx0qxr.com, DIRECT
-DOMAIN, zqmdvefdijjx.com, DIRECT
-DOMAIN, jzuqfavoibww.com, DIRECT
-DOMAIN, in1eab44tnda.com, DIRECT
-DOMAIN, nfysfaemv1m2.com, DIRECT
-DOMAIN, rfjyb3bu5j0r.com, DIRECT
-DOMAIN, wjmgijixqcbc.com, DIRECT
-DOMAIN, jvgcazuedspp.com, DIRECT
-DOMAIN, fmxjkp6ekzcg.com, DIRECT
-DOMAIN, zea35s3nhdbn.com, DIRECT
-DOMAIN, zehnaxihujfi.com, DIRECT
-DOMAIN, 0nzuqy0k3c35.com, DIRECT
-DOMAIN, yvocwep63nev.com, DIRECT
-DOMAIN, navogkbbnjl4.com, DIRECT
-DOMAIN, xgwr4phkkafo.com, DIRECT
-DOMAIN, om43531gxybq.com, DIRECT
-DOMAIN, 3lky1u69bdx2.com, DIRECT
-DOMAIN, 438pnr4dyywt.com, DIRECT
-DOMAIN, mdghhsgc4iiy.com, DIRECT
-DOMAIN, m3u8.hmrvideo.com, DIRECT
+HOST, 2bzfvku2xwu7.com, DIRECT
+HOST, n9ihkvv1ytjr.com, DIRECT
+HOST, 0cicgw0mte7y.com, DIRECT
+HOST, r5oa1oqwh6gz.com, DIRECT
+HOST, knfuzimvbmwr.com, DIRECT
+HOST, ucul8pjt6v6h.com, DIRECT
+HOST, 5pvheva17etb.com, DIRECT
+HOST, k6qgunhk9wuk.com, DIRECT
+HOST, 0uxzzy8thov3.com, DIRECT
+HOST, 5dagx9am9sai.com, DIRECT
+HOST, omgyesityyhl.com, DIRECT
+HOST, eucjzvub6vhr.com, DIRECT
+HOST, tficf2xx0qxr.com, DIRECT
+HOST, zqmdvefdijjx.com, DIRECT
+HOST, jzuqfavoibww.com, DIRECT
+HOST, in1eab44tnda.com, DIRECT
+HOST, nfysfaemv1m2.com, DIRECT
+HOST, rfjyb3bu5j0r.com, DIRECT
+HOST, wjmgijixqcbc.com, DIRECT
+HOST, jvgcazuedspp.com, DIRECT
+HOST, fmxjkp6ekzcg.com, DIRECT
+HOST, zea35s3nhdbn.com, DIRECT
+HOST, zehnaxihujfi.com, DIRECT
+HOST, 0nzuqy0k3c35.com, DIRECT
+HOST, yvocwep63nev.com, DIRECT
+HOST, navogkbbnjl4.com, DIRECT
+HOST, xgwr4phkkafo.com, DIRECT
+HOST, om43531gxybq.com, DIRECT
+HOST, 3lky1u69bdx2.com, DIRECT
+HOST, 438pnr4dyywt.com, DIRECT
+HOST, mdghhsgc4iiy.com, DIRECT
+HOST, m3u8.hmrvideo.com, DIRECT
 #华为吧主页
-DOMAIN, hw8.live, DIRECT
+HOST, hw8.live, DIRECT
 #播放
-DOMAIN, selfcdn.simaguo.com, DIRECT
-DOMAIN, m3u.nikanba.live, DIRECT
+HOST, selfcdn.simaguo.com, DIRECT
+HOST, m3u.nikanba.live, DIRECT
 #腐剧主页
-DOMAIN, www.fuju2024.cc, DIRECT
+HOST, www.fuju2024.cc, DIRECT
 #播放
-DOMAIN-SUFFIX, yishihui.com, DIRECT
+HOST-SUFFIX, yishihui.com, DIRECT
 #金鹰主页
-DOMAIN, image.jinyingimage.com, DIRECT
-DOMAIN, jinyingzy.com, DIRECT
+HOST, image.jinyingimage.com, DIRECT
+HOST, jinyingzy.com, DIRECT
 #播放
-DOMAIN, c.baisiweiting.com, DIRECT
-DOMAIN, hd.ijycnd.com, DIRECT
+HOST, c.baisiweiting.com, DIRECT
+HOST, hd.ijycnd.com, DIRECT
 #OK主页
-DOMAIN, pic.okzy.xyz, DIRECT
-DOMAIN, wakdj.com, DIRECT
+HOST, pic.okzy.xyz, DIRECT
+HOST, wakdj.com, DIRECT
 #播放
-DOMAIN-SUFFIX, noop44.com, DIRECT
-DOMAIN-SUFFIX, bxgbnet.com, DIRECT
-DOMAIN-SUFFIX, xxya88.com, DIRECT
+HOST-SUFFIX, noop44.com, DIRECT
+HOST-SUFFIX, bxgbnet.com, DIRECT
+HOST-SUFFIX, xxya88.com, DIRECT
 #宝片主页
-DOMAIN, zpsps.com, DIRECT
+HOST, zpsps.com, DIRECT
 #播放
-DOMAIN-KEYWORD, bbffvip.com, DIRECT
-DOMAIN-KEYWORD, rrcdnbf, DIRECT
+HOST-KEYWORD, bbffvip.com, DIRECT
+HOST-KEYWORD, rrcdnbf, DIRECT
 #小黄人主页
-DOMAIN, iqyi.xiaohuangrentv.com, DIRECT
+HOST, iqyi.xiaohuangrentv.com, DIRECT
 #播放
-DOMAIN-KEYWORD, .jisu.com, DIRECT
+HOST-KEYWORD, .jisu.com, DIRECT
 #牛牛主页
-DOMAIN, pic.niuniuzy.info, DIRECT
+HOST, pic.niuniuzy.info, DIRECT
 #播放
-DOMAIN-SUFFIX, qrstt.com, DIRECT
-DOMAIN-SUFFIX, stuuvwy.com, DIRECT
-DOMAIN-SUFFIX, xingchongwang.com, DIRECT
+HOST-SUFFIX, qrstt.com, DIRECT
+HOST-SUFFIX, stuuvwy.com, DIRECT
+HOST-SUFFIX, xingchongwang.com, DIRECT
 #丫丫主页
-DOMAIN-SUFFIX, uvvv77.com, DIRECT
+HOST-SUFFIX, uvvv77.com, DIRECT
 #播放
-DOMAIN-SUFFIX, jklnopq.com, DIRECT
-DOMAIN, cj.yayazy.net, DIRECT
-DOMAIN-SUFFIX, qdhdcate.com, DIRECT
+HOST-SUFFIX, jklnopq.com, DIRECT
+HOST, cj.yayazy.net, DIRECT
+HOST-SUFFIX, qdhdcate.com, DIRECT
 #影图主页
-DOMAIN, cj.vodimg.top, DIRECT
+HOST, cj.vodimg.top, DIRECT
 #播放
-DOMAIN-SUFFIX, ghij11.com, DIRECT
-DOMAIN-SUFFIX, tlkqc.com, DIRECT
-DOMAIN, pic.picturecdn.com, DIRECT
-DOMAIN, tlkqc.com, DIRECT
-DOMAIN-SUFFIX, xaab57.com, DIRECT
+HOST-SUFFIX, ghij11.com, DIRECT
+HOST-SUFFIX, tlkqc.com, DIRECT
+HOST, pic.picturecdn.com, DIRECT
+HOST, tlkqc.com, DIRECT
+HOST-SUFFIX, xaab57.com, DIRECT
 #U酷主页
-DOMAIN, api.ukuapi.com, DIRECT
+HOST, api.ukuapi.com, DIRECT
 #播放
-DOMAIN-KEYWORD, ukzy.ukubf, DIRECT
+HOST-KEYWORD, ukzy.ukubf, DIRECT
 #豪华主页
-DOMAIN, hhzyapi.com, DIRECT
+HOST, hhzyapi.com, DIRECT
 #播放
-DOMAIN, play.hhuus.com, DIRECT
-DOMAIN, p.hhwenjian.com, DIRECT
+HOST, play.hhuus.com, DIRECT
+HOST, p.hhwenjian.com, DIRECT
 #极速主页
-DOMAIN, jszyapi.com, DIRECT
+HOST, jszyapi.com, DIRECT
 #索尼主页
-DOMAIN, snzypic.vip, DIRECT
+HOST, snzypic.vip, DIRECT
 #播放
-DOMAIN-KEYWORD, .hiij, DIRECT
-DOMAIN-SUFFIX, nopqq.vip, DIRECT
-DOMAIN-SUFFIX, uvwwx.vip, DIRECT
-DOMAIN-SUFFIX, pqqrs.vip, DIRECT
-DOMAIN-SUFFIX, qrssv.com, DIRECT
+HOST-KEYWORD, .hiij, DIRECT
+HOST-SUFFIX, nopqq.vip, DIRECT
+HOST-SUFFIX, uvwwx.vip, DIRECT
+HOST-SUFFIX, pqqrs.vip, DIRECT
+HOST-SUFFIX, qrssv.com, DIRECT
 #ikun主页
-DOMAIN, www.imgikzy.com, DIRECT
+HOST, www.imgikzy.com, DIRECT
 #播放
-DOMAIN, kkzycdn.com, DIRECT
-DOMAIN, bfikuncdn.com, DIRECT
+HOST, kkzycdn.com, DIRECT
+HOST, bfikuncdn.com, DIRECT
 #量子主页
-DOMAIN, cj.lziapi.com, DIRECT
-DOMAIN, img.lzzyimg.com, DIRECT
+HOST, cj.lziapi.com, DIRECT
+HOST, img.lzzyimg.com, DIRECT
 #播放
-DOMAIN-KEYWORD, v.cdnlz, DIRECT
+HOST-KEYWORD, v.cdnlz, DIRECT
 #暴风主页
-DOMAIN-SUFFIX, bfzypic.com, DIRECT
-DOMAIN, bfzyapi.com, DIRECT
+HOST-SUFFIX, bfzypic.com, DIRECT
+HOST, bfzyapi.com, DIRECT
 #播放
-DOMAIN-SUFFIX, bfllvip.com, DIRECT
+HOST-SUFFIX, bfllvip.com, DIRECT
 #红牛主页
-DOMAIN, www.hongniuzy2.com, DIRECT
+HOST, www.hongniuzy2.com, DIRECT
 #播放
-DOMAIN, hn.bfvvs.com, DIRECT
-DOMAIN, hnts.ymuuy.com, DIRECT
+HOST, hn.bfvvs.com, DIRECT
+HOST, hnts.ymuuy.com, DIRECT
 #快车主页
-DOMAIN, caijl.kczyapi.com, DIRECT
+HOST, caijl.kczyapi.com, DIRECT
 #播放
-DOMAIN-SUFFIX, fghjklm.com, DIRECT
-DOMAIN-SUFFIX, ijkklmn.com, DIRECT
-DOMAIN-SUFFIX, longshengtea.com, DIRECT
-DOMAIN-SUFFIX, stuuv.vip, DIRECT
+HOST-SUFFIX, fghjklm.com, DIRECT
+HOST-SUFFIX, ijkklmn.com, DIRECT
+HOST-SUFFIX, longshengtea.com, DIRECT
+HOST-SUFFIX, stuuv.vip, DIRECT
 #闪电主页
-DOMAIN, sdzyapi.com, DIRECT
+HOST, sdzyapi.com, DIRECT
 #播放
-DOMAIN-SUFFIX, qrrs56.com, DIRECT
-DOMAIN-SUFFIX, wwxy0.com, DIRECT
-DOMAIN-SUFFIX, fentvoss.com, DIRECT
+HOST-SUFFIX, qrrs56.com, DIRECT
+HOST-SUFFIX, wwxy0.com, DIRECT
+HOST-SUFFIX, fentvoss.com, DIRECT
 #樱花主页
-DOMAIN, m3u8.apiyhzy.com, DIRECT
+HOST, m3u8.apiyhzy.com, DIRECT
 #播放
-DOMAIN-SUFFIX, ijkkl.vip, DIRECT
-DOMAIN-SUFFIX, abcce.vip, DIRECT
-DOMAIN-SUFFIX, mmnn34.com, DIRECT
-DOMAIN-SUFFIX, vwxx78.com, DIRECT
-DOMAIN-SUFFIX, stttu.vip, DIRECT
-DOMAIN-SUFFIX, tuvvv.vip, DIRECT
-DOMAIN-SUFFIX, ijkmnno.com, DIRECT
-DOMAIN-SUFFIX, deefg.vip, DIRECT
-DOMAIN-SUFFIX, lmnoprs.com, DIRECT
-DOMAIN-KEYWORD, shes, DIRECT
-DOMAIN-SUFFIX, yhzybf.com, DIRECT
-DOMAIN-SUFFIX, wgslsw.com, DIRECT
-DOMAIN, pic.jegms.com, DIRECT
+HOST-SUFFIX, ijkkl.vip, DIRECT
+HOST-SUFFIX, abcce.vip, DIRECT
+HOST-SUFFIX, mmnn34.com, DIRECT
+HOST-SUFFIX, vwxx78.com, DIRECT
+HOST-SUFFIX, stttu.vip, DIRECT
+HOST-SUFFIX, tuvvv.vip, DIRECT
+HOST-SUFFIX, ijkmnno.com, DIRECT
+HOST-SUFFIX, deefg.vip, DIRECT
+HOST-SUFFIX, lmnoprs.com, DIRECT
+HOST-KEYWORD, shes, DIRECT
+HOST-SUFFIX, yhzybf.com, DIRECT
+HOST-SUFFIX, wgslsw.com, DIRECT
+HOST, pic.jegms.com, DIRECT
 #卧龙主页
-DOMAIN, collect.wolongzyw.com, DIRECT
-DOMAIN, pic.wlongimg.com, DIRECT
+HOST, collect.wolongzyw.com, DIRECT
+HOST, pic.wlongimg.com, DIRECT
 #播放
-DOMAIN-KEYWORD, cdn.wls, DIRECT
-DOMAIN-KEYWORD, cdn.wlcdn, DIRECT
+HOST-KEYWORD, cdn.wls, DIRECT
+HOST-KEYWORD, cdn.wlcdn, DIRECT
 #虎牙主页与播放
-DOMAIN-KEYWORD, .huya, DIRECT
+HOST-KEYWORD, .huya, DIRECT
 #飘零主页
-DOMAIN, p2100.net, DIRECT
+HOST, p2100.net, DIRECT
 #无尽主页
-DOMAIN, api.wujinapi.com, DIRECT
+HOST, api.wujinapi.com, DIRECT
 #播放
-DOMAIN-SUFFIX, stuv67.com, DIRECT
-DOMAIN-SUFFIX, hjjk22.com, DIRECT
-DOMAIN-SUFFIX, jkkl23.com, DIRECT
-DOMAIN, v5.xyaa88.com, DIRECT
+HOST-SUFFIX, stuv67.com, DIRECT
+HOST-SUFFIX, hjjk22.com, DIRECT
+HOST-SUFFIX, jkkl23.com, DIRECT
+HOST, v5.xyaa88.com, DIRECT
 #速博主页
-DOMAIN-KEYWORD, subo, DIRECT
+HOST-KEYWORD, subo, DIRECT
 #播放
-DOMAIN, play.subokk.com, DIRECT
-DOMAIN-SUFFIX, xlzyd.com, DIRECT
+HOST, play.subokk.com, DIRECT
+HOST-SUFFIX, xlzyd.com, DIRECT
 #魔都主页
-DOMAIN, caiji.moduapi.cc, DIRECT
-DOMAIN, www.mdzypic.com, DIRECT
+HOST, caiji.moduapi.cc, DIRECT
+HOST, www.mdzypic.com, DIRECT
 #播放
-DOMAIN-KEYWORD, play.modujx, DIRECT
+HOST-KEYWORD, play.modujx, DIRECT
 #最大主页
-DOMAIN, ok.zuidapic.com, DIRECT
-DOMAIN, zuidazy.me, DIRECT
+HOST, ok.zuidapic.com, DIRECT
+HOST, zuidazy.me, DIRECT
 #播放
-DOMAIN-SUFFIX, daayee.com, DIRECT
+HOST-SUFFIX, daayee.com, DIRECT
 #新浪主页
-DOMAIN, xinlangtupian.com, DIRECT
+HOST, xinlangtupian.com, DIRECT
 #播放
-DOMAIN, play.xluuss.com, DIRECT
+HOST, play.xluuss.com, DIRECT
 #八戒播放
-DOMAIN-SUFFIX, monidai.com, DIRECT
-DOMAIN-SUFFIX, hdslb.pro, DIRECT
+HOST-SUFFIX, monidai.com, DIRECT
+HOST-SUFFIX, hdslb.pro, DIRECT
 #XPAV源
 #Hanime1播放
-DOMAIN, vdownload.hembed.com, DIRECT
+HOST, vdownload.hembed.com, DIRECT
 #MISSAV播放
-DOMAIN, surrit.com, DIRECT
+HOST, surrit.com, DIRECT
 #SupJav-ST播放
-DOMAIN, streamtape.com, DIRECT
-DOMAIN-SUFFIX, tapecontent.net, DIRECT
+HOST, streamtape.com, DIRECT
+HOST-SUFFIX, tapecontent.net, DIRECT
 #秋名山见主页
-DOMAIN, api.maiyoux.com, DIRECT
+HOST, api.maiyoux.com, DIRECT
 #播放
-DOMAIN-SUFFIX, xinzhisoft.xyz, DIRECT
-DOMAIN-SUFFIX, zhenyidaoxinxi.top, DIRECT
-DOMAIN-SUFFIX, xinzhitushu.xyz, DIRECT
-DOMAIN-SUFFIX, dmtmax.cn, DIRECT
-DOMAIN-SUFFIX, anfangmart.cn, DIRECT
-DOMAIN-SUFFIX, dapengjiaoyu.top, DIRECT
-DOMAIN-SUFFIX, aliyuncs.com, DIRECT
-DOMAIN-SUFFIX, kdfwz.top, DIRECT
+HOST-SUFFIX, xinzhisoft.xyz, DIRECT
+HOST-SUFFIX, zhenyidaoxinxi.top, DIRECT
+HOST-SUFFIX, xinzhitushu.xyz, DIRECT
+HOST-SUFFIX, dmtmax.cn, DIRECT
+HOST-SUFFIX, anfangmart.cn, DIRECT
+HOST-SUFFIX, dapengjiaoyu.top, DIRECT
+HOST-SUFFIX, aliyuncs.com, DIRECT
+HOST-SUFFIX, kdfwz.top, DIRECT
 #91AV播放
-DOMAIN-SUFFIX, knzaol.cn, DIRECT
-DOMAIN-SUFFIX, bndmpsjx.com, DIRECT
+HOST-SUFFIX, knzaol.cn, DIRECT
+HOST-SUFFIX, bndmpsjx.com, DIRECT
 #CMS源
 #森林主页
-DOMAIN, slapibf.com, DIRECT
+HOST, slapibf.com, DIRECT
 #播放
-DOMAIN, fmtu.sltututu.com, DIRECT
-DOMAIN-SUFFIX, bbffsl.com, DIRECT
+HOST, fmtu.sltututu.com, DIRECT
+HOST-SUFFIX, bbffsl.com, DIRECT
 #探探主页
-DOMAIN, apittzy.com, DIRECT
+HOST, apittzy.com, DIRECT
 #播放
-DOMAIN, vod1.ttbfp2.com, DIRECT
+HOST, vod1.ttbfp2.com, DIRECT
 #奥斯卡主页
-DOMAIN, aosikazy.com, DIRECT
+HOST, aosikazy.com, DIRECT
 #播放
-DOMAIN, bfaskcdn.com, DIRECT
-DOMAIN, uqetyzxa.com, DIRECT
+HOST, bfaskcdn.com, DIRECT
+HOST, uqetyzxa.com, DIRECT
 #老鸭主页
-DOMAIN, api.apilyzy.com, DIRECT
-DOMAIN, img.lytuchuang91.com, DIRECT
+HOST, api.apilyzy.com, DIRECT
+HOST, img.lytuchuang91.com, DIRECT
 #播放
-DOMAIN-SUFFIX, laoyacdn.com, DIRECT
+HOST-SUFFIX, laoyacdn.com, DIRECT
 #91麻豆主页
-DOMAIN, 666529.xyz, DIRECT
-DOMAIN, 91md.me, DIRECT
+HOST, 666529.xyz, DIRECT
+HOST, 91md.me, DIRECT
 #播放
-DOMAIN-SUFFIX, 97img.com, DIRECT
-DOMAIN, cctv123456.com, DIRECT
-DOMAIN-SUFFIX, cdn2020.com, DIRECT
+HOST-SUFFIX, 97img.com, DIRECT
+HOST, cctv123456.com, DIRECT
+HOST-SUFFIX, cdn2020.com, DIRECT
 #易看主页
-DOMAIN, img.yikanimg.top, DIRECT
-DOMAIN, api.yikanapi.com, DIRECT
+HOST, img.yikanimg.top, DIRECT
+HOST, api.yikanapi.com, DIRECT
 #播放
-DOMAIN, v.ykv3.com, DIRECT
+HOST, v.ykv3.com, DIRECT
 #番号主页
-DOMAIN, fm.fhpicpic.com, DIRECT
-DOMAIN, fhapi9.com, DIRECT
+HOST, fm.fhpicpic.com, DIRECT
+HOST, fhapi9.com, DIRECT
 #播放
-DOMAIN, v2024.fhbbff.com, DIRECT
+HOST, v2024.fhbbff.com, DIRECT
 #鲨鱼主页
-DOMAIN, sycdn.ddljsytt.com, DIRECT
+HOST, sycdn.ddljsytt.com, DIRECT
 #播放
-DOMAIN, v2024.sysybf.com, DIRECT
+HOST, v2024.sysybf.com, DIRECT
 #Alvin主页
-DOMAIN, fm.lbpicpic.com, DIRECT
-DOMAIN, lbapiby.com, DIRECT
+HOST, fm.lbpicpic.com, DIRECT
+HOST, lbapiby.com, DIRECT
 #播放
-DOMAIN, vip3.lbbf9.com, DIRECT
+HOST, vip3.lbbf9.com, DIRECT
 #黄瓜播放
-DOMAIN, player.hgplayer00.com, DIRECT
-DOMAIN, img.hgimg00.com, DIRECT
+HOST, player.hgplayer00.com, DIRECT
+HOST, img.hgimg00.com, DIRECT
 #玉兔主页
-DOMAIN, sbzytpimg2.com, DIRECT
-DOMAIN, apiyutu.com, DIRECT
+HOST, sbzytpimg2.com, DIRECT
+HOST, apiyutu.com, DIRECT
 #播放
-DOMAIN, yutubf.lsbbf3.com, DIRECT
+HOST, yutubf.lsbbf3.com, DIRECT
 #辣椒播放
-DOMAIN-SUFFIX, newljlj.com, DIRECT
-DOMAIN, ljcdn.ddljsytt.com, DIRECT
+HOST-SUFFIX, newljlj.com, DIRECT
+HOST, ljcdn.ddljsytt.com, DIRECT
 #奶香香主页
-DOMAIN, guzwiayz.com, DIRECT
-DOMAIN, naixxzy.com, DIRECT
+HOST, guzwiayz.com, DIRECT
+HOST, naixxzy.com, DIRECT
 #播放
-DOMAIN, nxxplayurl.com, DIRECT
+HOST, nxxplayurl.com, DIRECT
 #精品主页
-DOMAIN, jinpinxm.com, DIRECT
-DOMAIN-KEYWORD, jingpinx.com, DIRECT
+HOST, jinpinxm.com, DIRECT
+HOST-KEYWORD, jingpinx.com, DIRECT
 #播放
-DOMAIN, 05hao.top, DIRECT
+HOST, 05hao.top, DIRECT
 #草榴主页
-DOMAIN, www.caoliuzyw.com, DIRECT
-DOMAIN-SUFFIX, comodoca.com, DIRECT
-DOMAIN-SUFFIX, usertrust.com, DIRECT
-DOMAIN-SUFFIX, sectigo.com, DIRECT
-DOMAIN-SUFFIX, caoliuzywimg.com, DIRECT
+HOST, www.caoliuzyw.com, DIRECT
+HOST-SUFFIX, comodoca.com, DIRECT
+HOST-SUFFIX, usertrust.com, DIRECT
+HOST-SUFFIX, sectigo.com, DIRECT
+HOST-SUFFIX, caoliuzywimg.com, DIRECT
 #播放
-DOMAIN, player.cl9987.com, DIRECT
+HOST, player.cl9987.com, DIRECT
 #老色逼主页
-DOMAIN, apilsbzy1.com, DIRECT
+HOST, apilsbzy1.com, DIRECT
 #杂七杂八的网站封面
-DOMAIN, img.kuaichezy.net, DIRECT
-DOMAIN, puui.qpic.cn, DIRECT
-DOMAIN-SUFFIX, jisuimage.com, DIRECT
-DOMAIN-SUFFIX, toutiaoimg.com, DIRECT
-DOMAIN-SUFFIX, yzzyimages.com, DIRECT
-DOMAIN, hhmage.com, DIRECT
-DOMAIN, wework.qpic.cn, DIRECT
-DOMAIN, pic.rmb.bdstatic.com, DIRECT
-DOMAIN-SUFFIX, alicdn.com, DIRECT
-DOMAIN-SUFFIX, ykimg.com, DIRECT
-DOMAIN-SUFFIX, netease.com, DIRECT
-DOMAIN-SUFFIX, gtimg.cn, DIRECT
-DOMAIN-SUFFIX, meituan.net, DIRECT
-DOMAIN, mdn.alipay.com, DIRECT
-DOMAIN, fc.sinaimg.cn, DIRECT
-DOMAIN, img.moegirl.org.cn, DIRECT
-DOMAIN, pic8.iqiyipic.com, DIRECT
-DOMAIN, p0.qhimg.com, DIRECT
-DOMAIN-SUFFIX, iqiyipic.com, DIRECT
-DOMAIN, api.zaqohu.com, DIRECT
-DOMAIN, images.67c6c7a.com, DIRECT
-DOMAIN, pic7.58cdn.com.cn, DIRECT
-DOMAIN, help-ol.bj.bcebos.com, DIRECT
-DOMAIN-SUFFIX, loli.net, DIRECT
-DOMAIN-SUFFIX, 360buyimg.com, DIRECT
-DOMAIN, pic1.imgyzzy.com, DIRECT
-DOMAIN, get.sogou.com, DIRECT
-DOMAIN, open.bigmodel.cn, DIRECT
-DOMAIN, vcover-vt-pic.puui.qpic.cn, DIRECT
-DOMAIN, img.lzzyimg.com, DIRECT
-DOMAIN, fs-im-kefu.7moor-fs1.com, DIRECT
-DOMAIN, img.image8899.net, DIRECT
-DOMAIN, img.picgo.net, DIRECT
-DOMAIN, pic3.yzzyimages.com, DIRECT
-DOMAIN, 647bc185.szrtcpa.com, DIRECT
-DOMAIN, img.98ha.com, DIRECT
-DOMAIN, challenge.rivers.chaitin.cn, DIRECT
-DOMAIN, image.maimn.com, DIRECT
-DOMAIN-SUFFIX, baidu.com, DIRECT
-DOMAIN, img.liangzipic.com, DIRECT
-DOMAIN, imagev2.xmcdn.com, DIRECT
-DOMAIN, pic.imgdb.cn, DIRECT
-DOMAIN, pic3.yzzyimg.online, DIRECT
-DOMAIN, wx4.sinaimg.cn, DIRECT
-DOMAIN, img.jisuimage.com, DIRECT
-DOMAIN, pic.wujinpp.com, DIRECT
-DOMAIN, suboimage.com, DIRECT
-DOMAIN, img.ffzy888.com, DIRECT
+HOST, img.kuaichezy.net, DIRECT
+HOST, puui.qpic.cn, DIRECT
+HOST-SUFFIX, jisuimage.com, DIRECT
+HOST-SUFFIX, toutiaoimg.com, DIRECT
+HOST-SUFFIX, yzzyimages.com, DIRECT
+HOST, hhmage.com, DIRECT
+HOST, wework.qpic.cn, DIRECT
+HOST, pic.rmb.bdstatic.com, DIRECT
+HOST-SUFFIX, alicdn.com, DIRECT
+HOST-SUFFIX, ykimg.com, DIRECT
+HOST-SUFFIX, netease.com, DIRECT
+HOST-SUFFIX, gtimg.cn, DIRECT
+HOST-SUFFIX, meituan.net, DIRECT
+HOST, mdn.alipay.com, DIRECT
+HOST, fc.sinaimg.cn, DIRECT
+HOST, img.moegirl.org.cn, DIRECT
+HOST, pic8.iqiyipic.com, DIRECT
+HOST, p0.qhimg.com, DIRECT
+HOST-SUFFIX, iqiyipic.com, DIRECT
+HOST, api.zaqohu.com, DIRECT
+HOST, images.67c6c7a.com, DIRECT
+HOST, pic7.58cdn.com.cn, DIRECT
+HOST, help-ol.bj.bcebos.com, DIRECT
+HOST-SUFFIX, loli.net, DIRECT
+HOST-SUFFIX, 360buyimg.com, DIRECT
+HOST, pic1.imgyzzy.com, DIRECT
+HOST, get.sogou.com, DIRECT
+HOST, open.bigmodel.cn, DIRECT
+HOST, vcover-vt-pic.puui.qpic.cn, DIRECT
+HOST, img.lzzyimg.com, DIRECT
+HOST, fs-im-kefu.7moor-fs1.com, DIRECT
+HOST, img.image8899.net, DIRECT
+HOST, img.picgo.net, DIRECT
+HOST, pic3.yzzyimages.com, DIRECT
+HOST, 647bc185.szrtcpa.com, DIRECT
+HOST, img.98ha.com, DIRECT
+HOST, challenge.rivers.chaitin.cn, DIRECT
+HOST, image.maimn.com, DIRECT
+HOST-SUFFIX, baidu.com, DIRECT
+HOST, img.liangzipic.com, DIRECT
+HOST, imagev2.xmcdn.com, DIRECT
+HOST, pic.imgdb.cn, DIRECT
+HOST, pic3.yzzyimg.online, DIRECT
+HOST, wx4.sinaimg.cn, DIRECT
+HOST, img.jisuimage.com, DIRECT
+HOST, pic.wujinpp.com, DIRECT
+HOST, suboimage.com, DIRECT
+HOST, img.ffzy888.com, DIRECT
