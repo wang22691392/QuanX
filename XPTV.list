@@ -110,7 +110,7 @@ HOST-SUFFIX, cfkj86.com, DIRECT
 #播放
 HOST,ppvod01.blbtgg.com,DIRECT
 HOST,ppvod02.q19jcg.com,DIRECT
-DOMAIN-KEYWORD,ppvod,DIRECT
+HOST-KEYWORD,ppvod,DIRECT
 #哔嘀影视主页
 HOST, www.xlys01.com, DIRECT
 #播放
