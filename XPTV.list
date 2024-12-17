@@ -75,7 +75,7 @@ HOST, api.9cec79d.com, DIRECT
 #播放
 HOST, wjm.kemfsj.com, DIRECT
 #4k-av播放
-HOST, www.4k-av.com, DIRECT
+;HOST, www.4k-av.com, DIRECT
 #囧动漫主页
 IP-CIDR, 43.142.232.217/32, DIRECT, no-resolve
 #播放
@@ -105,6 +105,12 @@ HOST, presale.111.com.cn, DIRECT
 HOST, hdmoli.pro, DIRECT
 #播放
 HOST, v.damoli.pro, DIRECT
+#金牌影院主页
+HOST-SUFFIX, cfkj86.com, DIRECT
+#播放
+HOST,ppvod01.blbtgg.com,DIRECT
+HOST,ppvod02.q19jcg.com,DIRECT
+DOMAIN-KEYWORD,ppvod,DIRECT
 #哔嘀影视主页
 HOST, www.xlys01.com, DIRECT
 #播放
