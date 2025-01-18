@@ -72,7 +72,7 @@ DOMAIN, api.9cec79d.com, DIRECT
 #播放
 DOMAIN, wjm.kemfsj.com, DIRECT
 #4k-av播放
-;DOMAIN, www.4k-av.com, DIRECT
+DOMAIN, www.4k-av.com, DIRECT
 #囧动漫主页
 IP-CIDR, 43.142.232.217/32, DIRECT, no-resolve
 #播放
