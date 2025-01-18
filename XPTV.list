@@ -75,7 +75,7 @@ HOST, api.9cec79d.com, DIRECT
 #播放
 HOST, wjm.kemfsj.com, DIRECT
 #4k-av播放
-;HOST, www.4k-av.com, DIRECT
+HOST, www.4k-av.com, DIRECT
 #囧动漫主页
 IP-CIDR, 43.142.232.217/32, DIRECT, no-resolve
 #播放
