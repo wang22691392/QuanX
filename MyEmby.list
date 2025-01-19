@@ -3,7 +3,7 @@
 #!name=MyEmby规则
 =========================================
 # 鸽巢 DoveNest
-DOMAIN,media.doven.tv
+;DOMAIN,media.doven.tv
 # Levilde Luminia
 DOMAIN,eggtartemby.itsmyduty.top
 # FAC
