@@ -7,12 +7,11 @@ DOMAIN,media.doven.tv
 # Levilde Luminia
 DOMAIN,eggtartemby.itsmyduty.top
 # FAC
-DOMAIN-SUFFIX,makima.online,DIRECT
+DOMAIN-SUFFIX,makima.online
 # HkaEmby
 DOMAIN,hka-emby3.aliz.work
 DOMAIN,hkb-emby.aliz.work
 # July
-DOMAIN,alist7.eu.org,兜底切换
 DOMAIN-SUFFIX,sharepoint.com
 # AlphaTVO 硬盘服
 DOMAIN,103.197.185.84
