@@ -1,22 +1,27 @@
-DOMAIN,media.doven.tv,DIRECT
+
+#!url=https://raw.githubusercontent.com/wang22691392/quanx/main/MyEmby.list
+#!name=MyEmby规则
+=========================================
+# 鸽巢 DoveNest
+DOMAIN,media.doven.tv
 # Levilde Luminia
-DOMAIN,eggtartemby.itsmyduty.top,DIRECT
+DOMAIN,eggtartemby.itsmyduty.top
 # FAC
 DOMAIN-SUFFIX,makima.online,DIRECT
 # HkaEmby
-DOMAIN,hka-emby3.aliz.work,DIRECT
-DOMAIN,hkb-emby.aliz.work,DIRECT
+DOMAIN,hka-emby3.aliz.work
+DOMAIN,hkb-emby.aliz.work
 # July
 DOMAIN,alist7.eu.org,兜底切换
-DOMAIN-SUFFIX,sharepoint.com,DIRECT
+DOMAIN-SUFFIX,sharepoint.com
 # AlphaTVO 硬盘服
-DOMAIN,103.197.185.84,DIRECT
+DOMAIN,103.197.185.84
 # 飞跃彩虹
-DOMAIN-SUFFIX,7777777.buzz,DIRECT
-DOMAIN,581658.best,DIRECT
+DOMAIN-SUFFIX,7777777.buzz
+DOMAIN,581658.best
 # Nanflix
-DOMAIN-SUFFIX,us.nanflix.net,DIRECT
+DOMAIN-SUFFIX,us.nanflix.net
 # 非越
-DOMAIN-SUFFIX,sfcj.org,DIRECT
+DOMAIN-SUFFIX,sfcj.org
 # AuroraMedia
-DOMAIN-SUFFIX,auroramedia.vip,DIRECT
+DOMAIN-SUFFIX,auroramedia.vip
