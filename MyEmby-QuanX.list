@@ -1,2 +1,26 @@
-
+# https://raw.githubusercontent.com/wang22691392/QuanX/master/MyEmby-QuanX.list
+# 规则名称：MyEmby
+=========================================
+# 鸽巢 DoveNest
+HOST,media.doven.tv,MyEmby
+# Levilde Luminia
+HOST,eggtartemby.itsmyduty.top,MyEmby
+# FAC
+HOST-SUFFIX,makima.online,MyEmby
+# HkaEmby
+HOST,hka-emby3.aliz.work,MyEmby
+HOST,hkb-emby.aliz.work,MyEmby
+# July
+HOST-SUFFIX,sharepoint.com,MyEmby
+# AlphaTVO 硬盘服
+HOST,103.197.185.84,MyEmby
+# 飞跃彩虹
+HOST-SUFFIX,7777777.buzz,MyEmby
+HOST,581658.best,MyEmby
+# Nanflix
+HOST-SUFFIX,us.nanflix.net,MyEmby
+# 非越
+HOST-SUFFIX,sfcj.org,MyEmby
+# AuroraMedia
+HOST-SUFFIX,auroramedia.vip,MyEmby
 
