@@ -2,7 +2,7 @@
 # 规则名称：MyEmby
 
 # 鸽巢 DoveNest
-;HOST,media.doven.tv,MyEmby
+HOST-SUFFIX,doven.tv,MyEmby
 # Levilde Luminia
 HOST,eggtartemby.itsmyduty.top,MyEmby
 # FAC
