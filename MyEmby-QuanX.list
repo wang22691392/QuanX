@@ -1,6 +1,8 @@
 # https://raw.githubusercontent.com/wang22691392/QuanX/master/MyEmby-QuanX.list
 # 规则名称：MyEmby
 
+# prprEmby
+HOST,neo.iflya321.com,MyEmby
 # 鸽巢 DoveNest
 HOST-SUFFIX,doven.tv,MyEmby
 # Levilde Luminia
