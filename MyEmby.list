@@ -14,7 +14,7 @@ DOMAIN,hkb-emby.aliz.work
 # July
 DOMAIN-SUFFIX,sharepoint.com
 # AlphaTVO 硬盘服
-ID-CIDR,103.197.185.84/32
+ID-CIDR,103.197.185.84/32,no-resolve
 # 飞跃彩虹
 DOMAIN-SUFFIX,7777777.buzz
 DOMAIN,581658.best
