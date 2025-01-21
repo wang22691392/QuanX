@@ -13,7 +13,7 @@ HOST,hkb-emby.aliz.work,MyEmby
 # July
 HOST-SUFFIX,sharepoint.com,MyEmby
 # AlphaTVO 硬盘服
-IP-CIDR,103.197.185.84/32,MyEmby, no-resolve
+IP-CIDR,103.197.185.84/32,MyEmby
 # 飞跃彩虹
 HOST-SUFFIX,7777777.buzz,MyEmby
 HOST,581658.best,MyEmby
