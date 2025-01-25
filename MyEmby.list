@@ -1,6 +1,8 @@
 #!url=https://raw.githubusercontent.com/wang22691392/QuanX/master/MyEmby.list
 #!name=MyEmby规则
 =========================================
+# 不给看
+DOMAIN,c.emby.pro,DIRECT
 # 惊蛰
 DOMAIN,emby.jingzhe.pro,DIRECT
 # 1111临时
