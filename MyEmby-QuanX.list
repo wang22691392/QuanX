@@ -4,7 +4,7 @@
 # 不给看
 HOST,c.emby.pro,MyEmby
 # 惊蛰
-HOST,emby.jingzhe.pro,MyEmby
+HOST-SUFFIX,jingzhe.pro,MyEmby
 # 1111临时
 HOST,new.emby.moe,MyEmby
 # SaturDay.Lite
