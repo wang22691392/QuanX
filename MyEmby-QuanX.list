@@ -1,6 +1,8 @@
 # https://raw.githubusercontent.com/wang22691392/QuanX/master/MyEmby-QuanX.list
 # 规则名称：MyEmby
 
+# 不给看
+HOST,c.emby.pro,MyEmby
 # 惊蛰
 HOST,emby.jingzhe.pro,MyEmby
 # 1111临时
