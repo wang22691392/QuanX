@@ -2,13 +2,13 @@
 #!name=MyEmby规则
 =========================================
 # 不给看
-DOMAIN,c.emby.pro,DIRECT
+DOMAIN,c.emby.pro
 # 惊蛰
-DOMAIN,emby.jingzhe.pro,DIRECT
+DOMAIN,emby.jingzhe.pro
 # 1111临时
-DOMAIN,new.emby.moe,DIRECT
+DOMAIN,new.emby.moe
 # SaturDay.Lite
-DOMAIN-SUFFIX,saturday.video,DIRECT
+DOMAIN-SUFFIX,saturday.video
 # prprEmby
 DOMAIN,neo.iflya321.com
 # 鸽巢 DoveNest
