@@ -4,7 +4,7 @@
 # 不给看
 DOMAIN,c.emby.pro
 # 惊蛰
-DOMAIN,emby.jingzhe.pro
+DOMAIN-SUFFIX,jingzhe.pro
 # 1111临时
 DOMAIN,new.emby.moe
 # SaturDay.Lite
