@@ -1,6 +1,10 @@
 #!url=https://raw.githubusercontent.com/wang22691392/QuanX/master/MyEmby.list
 #!name=MyEmby规则
 =========================================
+# 惊蛰
+DOMAIN,emby.jingzhe.pro,DIRECT
+# 1111临时
+DOMAIN,new.emby.moe,DIRECT
 # SaturDay.Lite
 DOMAIN-SUFFIX,saturday.video,DIRECT
 # prprEmby
