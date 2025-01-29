@@ -1,6 +1,8 @@
 # https://raw.githubusercontent.com/wang22691392/QuanX/master/MyEmby-QuanX.list
 # 规则名称：MyEmby
 
+# 起点站 July
+HOST-SUFFIX,vfing.de,MyEmby
 # 不给看
 HOST,c.emby.pro,MyEmby
 # 惊蛰
