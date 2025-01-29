@@ -1,6 +1,8 @@
 #!url=https://raw.githubusercontent.com/wang22691392/QuanX/master/MyEmby.list
 #!name=MyEmby规则
 =========================================
+# 起点站 July
+DOMAIN-SUFFIX,vfing.de
 # 不给看
 DOMAIN,c.emby.pro
 # 惊蛰
