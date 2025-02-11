@@ -1,6 +1,8 @@
 # https://raw.githubusercontent.com/wang22691392/QuanX/master/MyEmby-QuanX.list
 # 规则名称：MyEmby
 
+# 起点站公益
+HOST,free.28.al,MyEmby
 # 比比BeeBI
 HOST,beebi.org,MyEmby
 # 起点站 July 墨云阁
