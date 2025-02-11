@@ -1,6 +1,8 @@
 #!url=https://raw.githubusercontent.com/wang22691392/QuanX/master/MyEmby.list
 #!name=MyEmby规则
 =========================================
+# 起点站公益
+DOMAIN,free.28.al
 # 比比BeeBI
 DOMAIN,beebi.org
 # 起点站 July 墨云阁
