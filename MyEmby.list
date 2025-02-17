@@ -24,8 +24,7 @@ DOMAIN,eggtartemby.itsmyduty.top
 # FAC
 DOMAIN-SUFFIX,makima.online
 # HkaEmby
-DOMAIN,hka-emby3.aliz.work
-DOMAIN,hkb-emby.aliz.work
+DOMAIN-SUFFIX,aliz.work
 # July
 DOMAIN-SUFFIX,sharepoint.com
 # AlphaTVO 硬盘服
