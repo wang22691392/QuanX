@@ -24,8 +24,7 @@ HOST,eggtartemby.itsmyduty.top,MyEmby
 # FAC
 HOST-SUFFIX,makima.online,MyEmby
 # HkaEmby
-HOST,hka-emby3.aliz.work,MyEmby
-HOST,hkb-emby.aliz.work,MyEmby
+HOST-SUFFIX,aliz.work,MyEmby
 # July
 HOST-SUFFIX,sharepoint.com,MyEmby
 # AlphaTVO 硬盘服
