@@ -1,6 +1,8 @@
 #!url=https://raw.githubusercontent.com/wang22691392/QuanX/master/MyEmby.list
 #!name=MyEmby规则
 =========================================
+# Doubon
+DOMAIN,onatoshi.114514.quest
 # 牢大
 DOMAIN-SUFFIX,biliblili.uk
 # 起点站公益
