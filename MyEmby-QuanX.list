@@ -1,6 +1,8 @@
 # https://raw.githubusercontent.com/wang22691392/QuanX/master/MyEmby-QuanX.list
 # 规则名称：MyEmby
 
+# Doubon
+HOST,onatoshi.114514.quest,MyEmby
 # 牢大
 HOST-SUFFIX,biliblili.uk,MyEmby
 # 起点站公益
