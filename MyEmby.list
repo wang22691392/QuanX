@@ -1,6 +1,8 @@
 #!url=https://raw.githubusercontent.com/wang22691392/QuanX/master/MyEmby.list
 #!name=MyEmby规则
 =========================================
+# ArcLine Media
+DOMAIN,smart.media.cloudaria.net
 # 叶子emby
 DOMAIN,super.yezi.my
 # Doubon
