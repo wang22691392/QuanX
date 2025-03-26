@@ -1,16 +1,22 @@
 #!url=https://raw.githubusercontent.com/wang22691392/QuanX/master/MyEmby.list
 #!name=MyEmby规则
 =========================================
+# 比比alist
+IP-CIDR,167.235.118.41/32,no-reslve
 # ArcLine Media
 DOMAIN,smart.media.cloudaria.net
 # 叶子emby
 DOMAIN,super.yezi.my
+DOMAIN,yezi.697758.best
 # Doubon
 DOMAIN,onatoshi.114514.quest
 # 牢大
 DOMAIN-SUFFIX,biliblili.uk
 # 起点站公益
 DOMAIN,free.28.al
+IP-CIDR,192.99.35.111/32,no-reslve
+# 稳健服
+DOMAIN-SUFFIX,wenjian.de
 # 比比BeeBI
 DOMAIN,beebi.org
 # 起点站 July 墨云阁
@@ -41,9 +47,11 @@ DOMAIN,overseaplus.alphatvapp.top
 # 飞跃彩虹
 DOMAIN-SUFFIX,7777777.buzz
 DOMAIN,581658.best
+IP-CIDR,193.122.114.13/32,no-resolve
 # Nanflix
 DOMAIN-SUFFIX,us.nanflix.net
 # 非越
 DOMAIN-SUFFIX,sfcj.org
+IP-CIDR,185.233.105.19/32,no-resolve
 # AuroraMedia
 DOMAIN-SUFFIX,auroramedia.vip
