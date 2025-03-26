@@ -1,16 +1,22 @@
 # https://raw.githubusercontent.com/wang22691392/QuanX/master/MyEmby-QuanX.list
 # 规则名称：MyEmby
 
+# 比比alist
+IP-CIDR,167.235.118.41/32,no-reslve,MyEmby
 # ArcLine Media
 HOST,smart.media.cloudaria.net,MyEmby
 # 叶子emby
 HOST,super.yezi.my,MyEmby
+HOST,yezi.697758.best,MyEmby
 # Doubon
 HOST,onatoshi.114514.quest,MyEmby
 # 牢大
 HOST-SUFFIX,biliblili.uk,MyEmby
 # 起点站公益
 HOST,free.28.al,MyEmby
+IP-CIDR,192.99.35.111/32,no-reslve,MyEmby
+# 稳健服
+HOST-SUFFIX,wenjian.de,MyEmby
 # 比比BeeBI
 HOST,beebi.org,MyEmby
 # 起点站 July 墨云阁
@@ -36,15 +42,17 @@ HOST-SUFFIX,aliz.work,MyEmby
 # July
 HOST-SUFFIX,sharepoint.com,MyEmby
 # AlphaTVO 硬盘服
-IP-CIDR,103.197.185.84/32,MyEmby,no-resolve
+IP-CIDR,103.197.185.84/32,no-resolve,MyEmby
 HOST,overseaplus.alphatvapp.top,MyEmby
 # 飞跃彩虹
 HOST-SUFFIX,7777777.buzz,MyEmby
 HOST,581658.best,MyEmby
+IP-CIDR,193.122.114.13/32,no-resolve,MyEmby
 # Nanflix
 HOST-SUFFIX,us.nanflix.net,MyEmby
 # 非越
 HOST-SUFFIX,sfcj.org,MyEmby
+IP-CIDR,185.233.105.19/32,no-resolve,MyEmby
 # AuroraMedia
 HOST-SUFFIX,auroramedia.vip,MyEmby
 
