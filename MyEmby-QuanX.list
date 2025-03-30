@@ -2,7 +2,7 @@
 # 规则名称：MyEmby
 
 # 比比alist
-IP-CIDR,167.235.118.41/32,no-reslve,MyEmby
+IP-CIDR,167.235.118.41/32,no-reslve, MyEmby
 # ArcLine Media
 HOST,smart.media.cloudaria.net,MyEmby
 # 叶子emby
@@ -14,7 +14,7 @@ HOST,onatoshi.114514.quest,MyEmby
 HOST-SUFFIX,biliblili.uk,MyEmby
 # 起点站公益
 HOST,free.28.al,MyEmby
-IP-CIDR,192.99.35.111/32,no-reslve,MyEmby
+IP-CIDR,192.99.35.111/32,no-reslve, MyEmby
 # 稳健服
 HOST-SUFFIX,wenjian.de,MyEmby
 # 比比BeeBI
