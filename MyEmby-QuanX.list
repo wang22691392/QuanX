@@ -14,7 +14,7 @@ HOST,onatoshi.114514.quest,MyEmby
 HOST-SUFFIX,biliblili.uk,MyEmby
 # 起点站公益
 HOST,free.28.al,MyEmby
-IP-CIDR,192.99.35.111/32,no-reslve, MyEmby
+IP-CIDR,192.99.35.111/32, MyEmby
 # 稳健服
 HOST-SUFFIX,wenjian.de,MyEmby
 # 比比BeeBI
@@ -49,12 +49,12 @@ HOST,overseaplus.alphatvapp.top,MyEmby
 # 飞跃彩虹
 HOST-SUFFIX,7777777.buzz,MyEmby
 HOST,581658.best,MyEmby
-IP-CIDR,193.122.114.13/32,no-resolve,MyEmby
+IP-CIDR,193.122.114.13/32,MyEmby
 # Nanflix
 HOST-SUFFIX,us.nanflix.net,MyEmby
 # 非越
 HOST-SUFFIX,sfcj.org,MyEmby
-IP-CIDR,185.233.105.19/32,no-resolve,MyEmby
+IP-CIDR,185.233.105.19/32,MyEmby
 # AuroraMedia
 HOST-SUFFIX,auroramedia.vip,MyEmby
 
