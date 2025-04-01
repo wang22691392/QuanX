@@ -2,7 +2,7 @@
 # 规则名称：MyEmby
 
 # 比比alist
-ip-cidr,167.235.118.41/32,no-reslve,MyEmby
+IP-CIDR,167.235.118.41/32,no-reslve,MyEmby
 # ArcLine Media
 HOST,smart.media.cloudaria.net,MyEmby
 # 叶子emby
