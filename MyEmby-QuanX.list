@@ -45,7 +45,7 @@ HOST-SUFFIX,aliz.work,MyEmby
 HOST-SUFFIX,sharepoint.com,MyEmby
 # AlphaTVO 硬盘服
 IP-CIDR,103.197.185.84/32,MyEmby
-HOST,overseaplus.alphatvapp.top,MyEmby
+HOST-SUFFIX,alphatvapp.top,MyEmby
 # 飞跃彩虹
 HOST-SUFFIX,7777777.buzz,MyEmby
 HOST,581658.best,MyEmby
