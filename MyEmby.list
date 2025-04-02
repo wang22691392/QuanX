@@ -45,7 +45,7 @@ DOMAIN-SUFFIX,aliz.work
 DOMAIN-SUFFIX,sharepoint.com
 # AlphaTVO 硬盘服
 IP-CIDR,103.197.185.84/32,no-reslve
-DOMAIN,overseaplus.alphatvapp.top
+DOMAIN-SUFFIX,alphatvapp.top
 # 飞跃彩虹
 DOMAIN-SUFFIX,7777777.buzz
 DOMAIN,581658.best
