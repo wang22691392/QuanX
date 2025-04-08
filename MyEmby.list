@@ -12,8 +12,8 @@ DOMAIN,yezi.697758.best
 DOMAIN,onatoshi.114514.quest
 # 牢大
 DOMAIN-SUFFIX,biliblili.uk
-# 起点站公益
-DOMAIN,free.28.al
+# 起点站
+DOMAIN-SUFFIX,28.al
 IP-CIDR,192.99.35.111/32,no-reslve
 # 稳健服
 DOMAIN-SUFFIX,wenjian.de
