@@ -12,8 +12,8 @@ HOST,yezi.697758.best,MyEmby
 HOST,onatoshi.114514.quest,MyEmby
 # 牢大
 HOST-SUFFIX,biliblili.uk,MyEmby
-# 起点站公益
-HOST,free.28.al,MyEmby
+# 起点站
+HOST-SUFFIX,28.al,MyEmby
 IP-CIDR,192.99.35.111/32, MyEmby
 # 稳健服
 HOST-SUFFIX,wenjian.de,MyEmby
