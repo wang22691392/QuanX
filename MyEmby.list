@@ -6,8 +6,7 @@ IP-CIDR,167.235.118.41/32,no-reslve
 # ArcLine Media
 DOMAIN,smart.media.cloudaria.net
 # 叶子emby
-DOMAIN,super.yezi.my
-DOMAIN,yezi.697758.best
+DOMAIN-SUFFIX,yezi.my
 # Doubon
 DOMAIN,onatoshi.114514.quest
 # 牢大
