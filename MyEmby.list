@@ -2,7 +2,7 @@
 #!name=MyEmby规则
 =========================================
 # 比比alist
-IP-CIDR,167.235.118.41/32,no-reslve
+IP-CIDR,167.235.118.41/32,no-resolve
 # ArcLine Media
 DOMAIN,smart.media.cloudaria.net
 # 叶子emby
@@ -13,7 +13,7 @@ DOMAIN,onatoshi.114514.quest
 DOMAIN-SUFFIX,biliblili.uk
 # 起点站
 DOMAIN-SUFFIX,28.al
-IP-CIDR,192.99.35.111/32,no-reslve
+IP-CIDR,192.99.35.111/32,no-resolve
 # 稳健服
 DOMAIN-SUFFIX,wenjian.de
 # 比比BeeBI
@@ -43,7 +43,7 @@ DOMAIN-SUFFIX,aliz.work
 # July
 DOMAIN-SUFFIX,sharepoint.com
 # AlphaTVO 硬盘服
-IP-CIDR,103.197.185.84/32,no-reslve
+IP-CIDR,103.197.185.84/32,no-resolve
 DOMAIN-SUFFIX,alphatvapp.top
 # 飞跃彩虹
 DOMAIN-SUFFIX,7777777.buzz
