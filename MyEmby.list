@@ -1,6 +1,10 @@
 #!url=https://raw.githubusercontent.com/wang22691392/QuanX/master/MyEmby.list
 #!name=MyEmby规则
 =========================================
+# 入机Media
+DOMAIN-SUFFIX,rjemby.com
+# 探花
+DOMAIN-SUFFIX,tanhuatv.site
 # 比比alist
 IP-CIDR,167.235.118.41/32,no-resolve
 # ArcLine Media
