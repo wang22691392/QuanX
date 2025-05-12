@@ -1,6 +1,13 @@
 # https://raw.githubusercontent.com/wang22691392/QuanX/master/MyEmby-QuanX.list
 # 规则名称：MyEmby
-
+# 入机Media
+DOMAIN-SUFFIX,rjemby.com,MyEmby
+# UHD
+DOMAIN,v1.uhdnow.com,MyEmby
+# Onyra
+DOMAIN-KEYWORD,onyra,MyEmby
+# 探花
+DOMAIN-SUFFIX,tanhuatv.site,MyEmby
 # 比比alist
 IP-CIDR,167.235.118.41/32,MyEmby
 # ArcLine Media
