@@ -1,7 +1,7 @@
 # https://raw.githubusercontent.com/wang22691392/QuanX/master/MyEmby-QuanX.list
 # 规则名称：MyEmby
 # 入机Media
-DOMAIN-SUFFIX,rjemby.com,MyEmby
+DOMAIN-SUFFIX,rjf37.com,MyEmby
 # UHD
 DOMAIN,v1.uhdnow.com,MyEmby
 # Onyra
