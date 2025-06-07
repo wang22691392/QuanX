@@ -53,6 +53,7 @@ HOST-SUFFIX,sharepoint.com,MyEmby
 IP-CIDR,103.197.185.84/32,MyEmby
 HOST-SUFFIX,alphatvapp.top,MyEmby
 # 飞跃彩虹
+HOST-SUFFIX,yhemby.top,MyEmby
 HOST-SUFFIX,7777777.buzz,MyEmby
 HOST,581658.best,MyEmby
 IP-CIDR,193.122.114.13/32,MyEmby
