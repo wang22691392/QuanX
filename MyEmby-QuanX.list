@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,tanhuatv.site,MyEmby
 IP-CIDR,167.235.118.41/32,MyEmby
 # ArcLine Media
 HOST,smart.media.cloudaria.net,MyEmby
+HOST-SUFFIX,cloudaria.one,MyEmby
 # 叶子emby
 HOST-SUFFIX,yezi.my,MyEmby
 # Doubon
