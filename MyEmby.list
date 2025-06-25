@@ -1,6 +1,8 @@
 #!url=https://raw.githubusercontent.com/wang22691392/QuanX/master/MyEmby.list
 #!name=MyEmby规则
 =========================================
+# MSKY公益服
+DOMAIN-SUFFIX,5msky.com
 # 入机Media
 DOMAIN-SUFFIX,rjf37.com
 # 探花
