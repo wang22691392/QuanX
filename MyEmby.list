@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,tanhuatv.site
 IP-CIDR,167.235.118.41/32,no-resolve
 # ArcLine Media
 DOMAIN,smart.media.cloudaria.net
+DOMAIN-SUFFIX,cloudaria.one
 # 叶子emby
 DOMAIN-SUFFIX,yezi.my
 # Doubon
