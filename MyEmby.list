@@ -1,6 +1,9 @@
 #!url=https://raw.githubusercontent.com/wang22691392/QuanX/master/MyEmby.list
 #!name=MyEmby规则
 =========================================
+# SNTP
+DOMAIN,lite.cn2gias.uk
+
 # MSKY公益服
 DOMAIN-SUFFIX,5msky.com
 # 入机Media
