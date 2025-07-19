@@ -1,5 +1,8 @@
 # https://raw.githubusercontent.com/wang22691392/QuanX/master/MyEmby-QuanX.list
 # 规则名称：MyEmby
+# SNTP
+DOMAIN,lite.cn2gias.uk,MyEmby
+
 # MSKY-公益服
 DOMAIN-SUFFIX,5msky.com,MyEmby
 # 入机Media
