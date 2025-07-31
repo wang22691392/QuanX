@@ -1,19 +1,21 @@
 # https://raw.githubusercontent.com/wang22691392/QuanX/master/MyEmby-QuanX.list
 # 规则名称：MyEmby
+# HOHAI
+HOST-SUFFIX,hohai.eu.org,MyEmby
 # SNTP
-DOMAIN,lite.cn2gias.uk,MyEmby
+HOST,lite.cn2gias.uk,MyEmby
 
 # MSKY-公益服
-DOMAIN-SUFFIX,5msky.com,MyEmby
+HOST-SUFFIX,5msky.com,MyEmby
 # 入机Media
-DOMAIN-SUFFIX,rjf37.com,MyEmby
-DOMAIN-SUFFIX,xytx.org,MyEmby
+HOST-SUFFIX,rjf37.com,MyEmby
+HOST-SUFFIX,xytx.org,MyEmby
 # UHD
-DOMAIN,v1.uhdnow.com,MyEmby
+HOST,v1.uhdnow.com,MyEmby
 # Onyra
-DOMAIN-KEYWORD,onyra,MyEmby
+HOST-KEYWORD,onyra,MyEmby
 # 探花
-DOMAIN-SUFFIX,tanhuatv.site,MyEmby
+HOST-SUFFIX,tanhuatv.site,MyEmby
 # 比比alist
 IP-CIDR,167.235.118.41/32,MyEmby
 # ArcLine Media
