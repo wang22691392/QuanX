@@ -5,7 +5,7 @@ HOST,plumber.nezhasu.com,MyEmby
 # HOHAI
 HOST-SUFFIX,hohai.eu.org,MyEmby
 # SNTP
-HOST,lite.cn2gias.uk,MyEmby
+# HOST,lite.cn2gias.uk,MyEmby
 
 # MSKY-公益服
 HOST-SUFFIX,5msky.com,MyEmby
