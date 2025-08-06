@@ -1,5 +1,7 @@
 # https://raw.githubusercontent.com/wang22691392/QuanX/master/MyEmby-QuanX.list
 # 规则名称：MyEmby
+# Plumber
+HOST,plumber.nezhasu.com,MyEmby
 # HOHAI
 HOST-SUFFIX,hohai.eu.org,MyEmby
 # SNTP
