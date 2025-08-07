@@ -11,8 +11,8 @@ DOMAIN-SUFFIX,hohai.eu.org
 # MSKY公益服
 DOMAIN-SUFFIX,5msky.com
 # 入机Media
-DOMAIN-SUFFIX,rjf37.com
-DOMAIN-SUFFIX,xytx.org
+#DOMAIN-SUFFIX,rjf37.com
+#DOMAIN-SUFFIX,xytx.org
 # 探花
 DOMAIN-SUFFIX,tanhuatv.site
 # 比比alist
