@@ -2,6 +2,7 @@
 # 规则名称：MyEmby
 # Plumber
 HOST,plumber.nezhasu.com,MyEmby
+HOST,shouer.910427.xyz,MyEmby
 # HOHAI
 HOST-SUFFIX,hohai.eu.org,MyEmby
 # SNTP
