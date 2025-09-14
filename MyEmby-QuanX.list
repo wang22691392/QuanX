@@ -1,5 +1,7 @@
 # https://raw.githubusercontent.com/wang22691392/QuanX/master/MyEmby-QuanX.list
 # 规则名称：MyEmby
+# 琉璃门
+host-suffix,kongcheng666.dpdns.org,MyEmby
 # Plumber
 HOST,plumber.nezhasu.com,MyEmby
 HOST,shouer.910427.xyz,MyEmby
