@@ -1,6 +1,11 @@
 #!url=https://raw.githubusercontent.com/wang22691392/QuanX/master/MyEmby.list
 #!name=MyEmby规则
 =========================================
+# 月饼
+DOMAIN-SUFFIX, mobai.sbs
+DOMAIN-SUFFIX, emby.my
+# emos
+DOMAIN-SUFFIX, emos.lol
 # 琉璃门
 DOMAIN-SUFFIX,kongcheng666.dpdns.org
 # Plumber
