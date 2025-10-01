@@ -1,5 +1,10 @@
 # https://raw.githubusercontent.com/wang22691392/QuanX/master/MyEmby-QuanX.list
 # 规则名称：MyEmby
+# emos
+host-suffix, emos.lol,MyEmby
+# 月饼
+host-suffix, mobai.sbs,MyEmby
+host-suffix, emby.my,MyEmby
 # 琉璃门
 host-suffix,kongcheng666.dpdns.org,MyEmby
 # Plumber
