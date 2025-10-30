@@ -1,12 +1,14 @@
 # https://raw.githubusercontent.com/wang22691392/QuanX/master/MyEmby-QuanX.list
 # 规则名称：MyEmby
+# Embydada
+HOST-SUFFIX,10520.xyz,MyEmby
 # emos
-host-suffix, emos.lol,MyEmby
+HOST-SUFFIX, emos.lol,MyEmby
 # 月饼
-host-suffix, mobai.sbs,MyEmby
-host-suffix, emby.my,MyEmby
+HOST-SUFFIX, mobai.sbs,MyEmby
+HOST-SUFFIX, emby.my,MyEmby
 # 琉璃门
-host-suffix,kongcheng666.dpdns.org,MyEmby
+HOST-SUFFIX,kongcheng666.dpdns.org,MyEmby
 # Plumber
 HOST,plumber.nezhasu.com,MyEmby
 HOST,shouer.910427.xyz,MyEmby
