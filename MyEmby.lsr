@@ -2,7 +2,7 @@
 #!name=MyEmby规则
 =========================================
 # Embydada
-DOMAIN,10520.xyz
+DOMAIN-SUFFIX,10520.xyz
 # 月饼
 DOMAIN-SUFFIX, mobai.sbs
 DOMAIN-SUFFIX, emby.my
