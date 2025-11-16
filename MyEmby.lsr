@@ -1,6 +1,8 @@
 #!url=https://raw.githubusercontent.com/wang22691392/QuanX/master/MyEmby.list
 #!name=MyEmby规则
 =========================================
+# MICU
+DOMAIN-SUFFIX,micu.hk
 # Embydada
 DOMAIN-SUFFIX,10520.xyz
 # 月饼
