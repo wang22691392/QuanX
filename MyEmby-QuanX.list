@@ -28,6 +28,8 @@ HOST-SUFFIX,5msky.com,MyEmby
 HOST,v1.uhdnow.com,MyEmby
 # Onyra
 HOST-KEYWORD,onyra,MyEmby
+# 游骑兵
+HOST,emby.heisi.org,MyEmby
 # 探花
 HOST-SUFFIX,tanhuatv.site,MyEmby
 # 比比alist
