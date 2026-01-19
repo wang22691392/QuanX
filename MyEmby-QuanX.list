@@ -69,8 +69,8 @@ HOST-SUFFIX,saturdayvideo.top,MyEmby
 # 鸽巢 DoveNest
 HOST-SUFFIX,doven.tv,MyEmby
 # Levilde Luminia
-HOST,emby.levilde.bond,MyEmby
-HOST,eggtartemby.itsmyduty.top,MyEmby
+;HOST,emby.levilde.bond,MyEmby
+;HOST,eggtartemby.itsmyduty.top,MyEmby
 # FAC
 HOST-SUFFIX,makima.online,MyEmby
 HOST-SUFFIX,313445.xyz,MyEmby
