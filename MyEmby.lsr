@@ -66,8 +66,8 @@ DOMAIN-SUFFIX,saturdayvideo.top
 # 鸽巢 DoveNest
 DOMAIN-SUFFIX,doven.tv
 # Levilde Luminia
-DOMAIN,emby.levilde.bond
-DOMAIN,eggtartemby.itsmyduty.top
+# DOMAIN,emby.levilde.bond
+# DOMAIN,eggtartemby.itsmyduty.top
 # FAC
 DOMAIN-SUFFIX,313445.xyz
 DOMAIN-SUFFIX,makima.online
