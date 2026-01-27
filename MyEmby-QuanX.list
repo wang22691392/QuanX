@@ -1,5 +1,7 @@
 # https://raw.githubusercontent.com/wang22691392/QuanX/master/MyEmby-QuanX.list
 # 规则名称：MyEmby
+# Mirai
+HOST-SUFFIX,miraiemby.com,MyEmby
 # 气鼠了
 HOST-SUFFIX,istyboe.top,MyEmby
 # OkEmby
