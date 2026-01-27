@@ -1,6 +1,8 @@
 #!url=https://raw.githubusercontent.com/wang22691392/QuanX/master/MyEmby.list
 #!name=MyEmby规则
 =========================================
+# Mirai
+DOMAIN-SUFFIX,miraiemby.com
 # 气鼠了
 DOMAIN-SUFFIX,istyboe.top
 # OkEmby
