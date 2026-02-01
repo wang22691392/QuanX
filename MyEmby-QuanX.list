@@ -46,6 +46,7 @@ HOST,smart.media.cloudaria.net,MyEmby
 HOST-SUFFIX,cloudaria.one,MyEmby
 # 叶子emby
 HOST-SUFFIX,yezi.my,MyEmby
+HOST,yz.200036.xyz,MyEmby
 # Doubon
 HOST,onatoshi.114514.quest,MyEmby
 # 牢大
