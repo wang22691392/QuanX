@@ -1,6 +1,8 @@
 #!url=https://raw.githubusercontent.com/wang22691392/QuanX/master/MyEmby.list
 #!name=MyEmby规则
 =========================================
+# HelloHK
+DOMAIN-SUFFIX,hellohk.me
 # HG
 DOMAIN,emby.dnscf.dpdns.org
 # Mirai
