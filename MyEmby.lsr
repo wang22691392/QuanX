@@ -55,8 +55,7 @@ DOMAIN,onatoshi.114514.quest
 # 牢大
 DOMAIN-SUFFIX,biliblili.uk
 # 起点站
-DOMAIN-SUFFIX,28.al
-IP-CIDR,192.99.35.111/32,no-resolve
+# #DOMAIN-SUFFIX,28.al
 # 稳健服
 DOMAIN-SUFFIX,wenjian.de
 # 比比BeeBI
