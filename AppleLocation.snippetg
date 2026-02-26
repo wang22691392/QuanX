@@ -10,7 +10,7 @@
 
 #[filter_local]
 # 📍 Country Code
-host, gspe1-ssl.ls.apple.com, Apple Intelligence 
+host, gspe1-ssl.ls.apple.com, AI
 # 📍 Amap Dispatcher
 host, dispatcher.is.autonavi.com, direct
 
