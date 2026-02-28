@@ -65,7 +65,7 @@ HOST,beebi.org,MyEmby
 # 起点站 July 墨云阁
 HOST-SUFFIX,vfing.de,MyEmby
 HOST-SUFFIX,mobaiemby.site,MyEmby
-HOST,myg.emby.280454.xyz,MyEmby
+HOST-SUFFIX,280454.xyz,MyEmby
 HOST-SUFFIX,favoritewife.com,MyEmby
 # 不给看
 HOST,c.emby.pro,MyEmby
