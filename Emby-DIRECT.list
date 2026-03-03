@@ -1,0 +1,62 @@
+# https://raw.githubusercontent.com/wang22691392/QuanX/master/Emby-DIRECT.list
+# 规则名称：Emby-DIRECT
+# Mirai
+DOMAIN-SUFFIX,miraiemby.com
+# SaturDay.Lite（直连无速度）
+DOMAIN-SUFFIX,saturdayvideo.top
+# 气鼠了(CF常规、CF优化)
+DOMAIN,emby.istyboe.top
+DOMAIN,114514.fuckme.pushgoodcloud.com
+# Msky影库
+DOMAIN-SUFFIX,3msky.com
+# emos
+DOMAIN-SUFFIX,emos.best
+DOMAIN-SUFFIX,sharepoint.com
+# 非越
+DOMAIN-SUFFIX,sfcj.org
+# OkEmby
+DOMAIN-SUFFIX,okemby.org
+# 叶子
+DOMAIN-KEYWORD,lyezi
+DOMAIN,yz.200036.xyz
+# Doubon
+DOMAIN,onatoshi.114514.quest
+# 稳健服
+DOMAIN-SUFFIX,wenjian.de
+# 惊蛰
+DOMAIN-SUFFIX,jingzhe.pro
+# 墨云阁（主线、反代）
+DOMAIN-SUFFIX,mobaiemby.site
+DOMAIN-SUFFIX,280454.xyz
+# 月饼
+DOMAIN-SUFFIX,emby.my
+# 飞跃彩虹
+DOMAIN-SUFFIX,feiyue.lol
+# HKA Emby
+DOMAIN,hka-emby.aliz.work
+# 游骑兵
+DOMAIN-SUFFIX,heisi.org
+DOMAIN,emby666.alien666.de5.net
+# HG-Emby（电信直连无速度）
+DOMAIN-SUFFIX,dnscf.dpdns.org
+DOMAIN-SUFFIX,microsoftpersonalcontent.com
+# HelloHK
+DOMAIN-SUFFIX,hellohk.me
+# Embydada
+DOMAIN-SUFFIX,101514.xyz
+# HOHAI
+DOMAIN-SUFFIX,hohai.eu.org
+# 狗剩
+DOMAIN,gousen.cc.cd
+
+#########################################
+# 爱罗
+DOMAIN-SUFFIX,955527,xyz
+# 未响、蜗壳有声书
+DOMAIN-SUFFIX,mefun.org
+# 音海拾贝
+DOMAIN,yinhai.aiinyue.com
+
+#########################################
+# polo有声书
+DOMAIN-SUFFIX,poloemby.xyz
