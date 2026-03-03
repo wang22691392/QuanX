@@ -1,62 +1,62 @@
 # https://raw.githubusercontent.com/wang22691392/QuanX/master/Emby-DIRECT.list
 # 规则名称：Emby-DIRECT
 # Mirai
-HOST-SUFFIX,miraiemby.com
+HOST-SUFFIX,miraiemby.com,direct
 # SaturDay.Lite（直连无速度）
-HOST-SUFFIX,saturdayvideo.top
+HOST-SUFFIX,saturdayvideo.top,direct
 # 气鼠了(CF常规、CF优化)
-HOST,emby.istyboe.top
-HOST,114514.fuckme.pushgoodcloud.com
+HOST,emby.istyboe.top,direct
+HOST,114514.fuckme.pushgoodcloud.com,direct
 # Msky影库
-HOST-SUFFIX,3msky.com
+HOST-SUFFIX,3msky.com,direct
 # emos
-HOST-SUFFIX,emos.best
-HOST-SUFFIX,sharepoint.com
+HOST-SUFFIX,emos.best,direct
+HOST-SUFFIX,sharepoint.com,direct
 # 非越
-HOST-SUFFIX,sfcj.org
+HOST-SUFFIX,sfcj.org,direct
 # OkEmby
-HOST-SUFFIX,okemby.org
+HOST-SUFFIX,okemby.org,direct
 # 叶子
-HOST-KEYWORD,lyezi
-HOST,yz.200036.xyz
+HOST-KEYWORD,lyezi,direct
+HOST,yz.200036.xyz,direct
 # Doubon
-HOST,onatoshi.114514.quest
+HOST,onatoshi.114514.quest,direct
 # 稳健服
-HOST-SUFFIX,wenjian.de
+HOST-SUFFIX,wenjian.de,direct
 # 惊蛰
-HOST-SUFFIX,jingzhe.pro
+HOST-SUFFIX,jingzhe.pro,direct
 # 墨云阁（主线、反代）
-HOST-SUFFIX,mobaiemby.site
-HOST-SUFFIX,280454.xyz
+HOST-SUFFIX,mobaiemby.site,direct
+HOST-SUFFIX,280454.xyz,direct
 # 月饼
-HOST-SUFFIX,emby.my
+HOST-SUFFIX,emby.my,direct
 # 飞跃彩虹
-HOST-SUFFIX,feiyue.lol
+HOST-SUFFIX,feiyue.lol,direct
 # HKA Emby
-HOST,hka-emby.aliz.work
+HOST,hka-emby.aliz.work,direct
 # 游骑兵
-HOST-SUFFIX,heisi.org
-HOST,emby666.alien666.de5.net
+HOST-SUFFIX,heisi.org,direct
+HOST,emby666.alien666.de5.net,direct
 # HG-Emby（电信直连无速度）
-HOST-SUFFIX,dnscf.dpdns.org
-HOST-SUFFIX,microsoftpersonalcontent.com
+HOST-SUFFIX,dnscf.dpdns.org,direct
+HOST-SUFFIX,microsoftpersonalcontent.com,direct
 # HelloHK
-HOST-SUFFIX,hellohk.me
+HOST-SUFFIX,hellohk.me,direct
 # Embydada
-HOST-SUFFIX,101514.xyz
+HOST-SUFFIX,101514.xyz,direct
 # HOHAI
-HOST-SUFFIX,hohai.eu.org
+HOST-SUFFIX,hohai.eu.org,direct
 # 狗剩
-HOST,gousen.cc.cd
+HOST,gousen.cc.cd,direct
 
 #########################################
 # 爱罗
-HOST-SUFFIX,955527,xyz
+HOST-SUFFIX,955527,xyz,direct
 # 未响、蜗壳有声书
-HOST-SUFFIX,mefun.org
+HOST-SUFFIX,mefun.org,direct
 # 音海拾贝
-HOST,yinhai.aiinyue.com
+HOST,yinhai.aiinyue.com,direct
 
 #########################################
 # polo有声书
-HOST-SUFFIX,poloemby.xyz
+HOST-SUFFIX,poloemby.xyz,direct
