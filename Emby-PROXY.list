@@ -2,13 +2,13 @@
 #规则名称：Emby-PROXY
 
 # 起点站（禁大陆及日本）
-HOST-SUFFIX,free.28.al,proxy
-HOST-SUFFIX,startspoint.com,proxy
+DOMAIN-SUFFIX,free.28.al,proxy
+DOMAIN-SUFFIX,startspoint.com,proxy
 # prprCloud（禁大陆、日本及美国）
-HOST,neo.iflya321.com,proxy
+DOMAIN,neo.iflya321.com,proxy
 # Nebula-Media（禁大陆及日本）
-HOST-SUFFIX,nebula-media.org,proxy
+DOMAIN-SUFFIX,nebula-media.org,proxy
 # Levilde Luminia 2.0（禁大陆及日本）
-HOST,emby.levilde.bond,proxy
+DOMAIN,emby.levilde.bond,proxy
 # SNTP Media Lite（禁大陆）
-HOST,lite.cn2gias.uk,proxy
+DOMAIN,lite.cn2gias.uk,proxy
