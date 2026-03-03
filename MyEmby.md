@@ -62,7 +62,7 @@ DOMAIN,lite.cn2gias.uk
 
 #########################################
 # 爱罗
-DOMAIN-SUFFIX,955527,xyz
+DOMAIN-SUFFIX,955527.xyz
 # 未响、蜗壳有声书
 DOMAIN-SUFFIX,mefun.org
 # 音海拾贝
