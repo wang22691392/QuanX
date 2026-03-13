@@ -28,8 +28,9 @@ DOMAIN-SUFFIX,jingzhe.pro,direct
 # 墨云阁（主线、反代）
 DOMAIN-SUFFIX,mobaiemby.site,direct
 DOMAIN-SUFFIX,280454.xyz,direct
-# 月饼
+# 月饼（推流）
 DOMAIN-SUFFIX,emby.my,direct
+DOMAIN,speedtest-peppapig.apple-cdn.net,direct
 # 飞跃彩虹
 DOMAIN-SUFFIX,feiyue.lol,direct
 # HKA Emby
