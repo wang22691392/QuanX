@@ -40,9 +40,6 @@ DOMAIN,hka-emby.aliz.work,direct
 # 游骑兵
 DOMAIN-SUFFIX,heisi.org,direct
 DOMAIN,emby666.alien666.de5.net,direct
-# HG-Emby（电信直连无速度）
-DOMAIN-SUFFIX,dnscf.dpdns.org,direct
-DOMAIN-SUFFIX,microsoftpersonalcontent.com,direct
 # HelloHK
 DOMAIN-SUFFIX,hellohk.me,direct
 # Embydada
