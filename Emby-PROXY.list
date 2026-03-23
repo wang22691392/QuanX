@@ -14,3 +14,6 @@ DOMAIN-SUFFIX,nebula-media.org,proxy
 DOMAIN,emby.levilde.bond,proxy
 # SNTP Media Lite（禁大陆）
 DOMAIN,lite.cn2gias.uk,proxy
+# HG-Emby（电信直连无速度）
+DOMAIN-SUFFIX,dnscf.dpdns.org,proxy
+DOMAIN-SUFFIX,microsoftpersonalcontent.com,proxy
