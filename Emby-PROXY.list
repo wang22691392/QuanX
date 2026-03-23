@@ -2,7 +2,7 @@
 #规则名称：Emby-PROXY
 
 # 小姨子（海外线路）
-DOMAIN-SUFFIX,66990000.xyz,proxy
+#DOMAIN-SUFFIX,66990000.xyz,proxy
 # 起点站（禁大陆及日本）
 DOMAIN-SUFFIX,free.28.al,proxy
 DOMAIN-SUFFIX,startspoint.com,proxy
