@@ -1,7 +1,5 @@
 # https://raw.githubusercontent.com/wang22691392/QuanX/master/Emby-DIRECT.list
 # 规则名称：Emby-DIRECT
-# 终点站
-DOMAIN-SUFFIX,emby.wtf,direct
 # 小姨子
 DOMAIN-SUFFIX,emby.yun,direct
 # Mirai
