@@ -1,6 +1,7 @@
 #https://raw.githubusercontent.com/wang22691392/QuanX/refs/heads/master/Emby-PROXY.list
 #规则名称：Emby-PROXY
-
+# 终点站(禁cn hk jp us）
+DOMAIN-SUFFIX,emby.wtf,proxy
 # 飞跃彩虹(推流线路）
 DOMAIN,cflocal.xxlb.net,proxy
 # 小姨子（海外线路）
