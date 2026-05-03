@@ -48,7 +48,8 @@ DOMAIN-SUFFIX,101514.xyz
 # HOHAI
 DOMAIN-SUFFIX,hohai.eu.org
 # 狗剩
-DOMAIN,gousen.cc.cd
+DOMAIN-SUFFIX,gousen.cc.cd
+DOMAIN-SUFFIX,emby.eoos.lol
 
 #########################################
 # 爱罗
@@ -57,6 +58,8 @@ DOMAIN-SUFFIX,955527.xyz
 DOMAIN-SUFFIX,mefun.org
 # 音海拾贝
 DOMAIN,yinhai.aiinyue.com
+# LXD Music 音乐服
+DOMAIN,ap-singapore-1.vds.qzz.io
 
 #########################################
 # polo有声书
