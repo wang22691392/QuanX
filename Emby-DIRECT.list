@@ -47,7 +47,8 @@ DOMAIN-SUFFIX,101514.xyz,direct
 # HOHAI
 DOMAIN-SUFFIX,hohai.eu.org,direct
 # 狗剩
-DOMAIN,gousen.cc.cd,direct
+DOMAIN-SUFFIX,gousen.cc.cd,direct
+DOMAIN-SUFFIX,emby.eoos.lol,direct
 
 #########################################
 # 爱罗
