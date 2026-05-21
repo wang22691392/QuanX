@@ -13,7 +13,7 @@ DOMAIN,114514.fuckme.pushgoodcloud.com
 # Msky影库
 DOMAIN-SUFFIX,3msky.com
 # emos
-DOMAIN-SUFFIX,emos.best
+DOMAIN-KEYWORD,emos
 DOMAIN-SUFFIX,sharepoint.com
 # 非越
 DOMAIN-SUFFIX,sfcj.org
