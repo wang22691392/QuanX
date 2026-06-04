@@ -2,6 +2,7 @@
 # 规则名称：Emby-DIRECT
 # lunarisvault
 DOMAIN-SUFFIX,lunarisvault.com,direct
+DOMAIN-SUFFIX,lunarisvault.vip,direct
 # 小姨子
 DOMAIN-SUFFIX,emby.yun,direct
 # Mirai
