@@ -1,5 +1,7 @@
 # https://raw.githubusercontent.com/wang22691392/QuanX/master/Emby-DIRECT.list
 # 规则名称：Emby-DIRECT
+# 猫窝
+DOMAIN-SUFFIX,stieff.uk,direct
 # lunarisvault
 DOMAIN-SUFFIX,lunarisvault.com,direct
 DOMAIN-SUFFIX,lunarisvault.vip,direct
