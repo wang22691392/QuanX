@@ -38,7 +38,7 @@ DOMAIN-SUFFIX,mobaiemby.site
 DOMAIN-SUFFIX,280454.xyz
 # 月饼（推流）
 DOMAIN-SUFFIX,emby.my
-DOMAIN,speedtest-peppapig.apple-cdn.net
+DOMAIN-SUFFIX,apple-cdn.net
 # 飞跃彩虹
 DOMAIN-SUFFIX,feiyue.lol
 # HKA Emby
