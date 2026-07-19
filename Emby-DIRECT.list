@@ -1,5 +1,7 @@
 # https://raw.githubusercontent.com/wang22691392/QuanX/master/Emby-DIRECT.list
 # 规则名称：Emby-DIRECT
+# 一之濑琴美
+DOMAIN,emby.ichinosekotomi.com,direct
 # 周三晚
 DOMAIN-SUFFIX,zhousanwan.xyz,direct
 # 猫窝
