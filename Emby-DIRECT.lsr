@@ -2,7 +2,7 @@
 #!name=Emby-DIRECT规则
 =========================================
 # 一之濑琴美
-DOMAIN,emby.ichinosekotomi.com
+DOMAIN-SUFFIX,ichinosekotomi.com
 # 周三晚
 DOMAIN-SUFFIX,zhousanwan.xyz
 # 猫窝
