@@ -1,5 +1,7 @@
 # https://raw.githubusercontent.com/wang22691392/QuanX/master/Emby-DIRECT.list
 # 规则名称：Emby-DIRECT
+# peach
+DOMAIN-SUFFIX,embymv.link,direct
 # 一之濑琴美
 DOMAIN-SUFFIX,ichinosekotomi.com,direct
 # 周三晚
