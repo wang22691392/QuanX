@@ -22,6 +22,7 @@ DOMAIN,emby.istyboe.top,direct
 DOMAIN,114514.fuckme.pushgoodcloud.com,direct
 # Msky影库
 DOMAIN-SUFFIX,3msky.com,direct
+DOMAIN-SUFFIX,gcf.betop.uk,direct
 # emos
 DOMAIN-KEYWORD,emos,direct
 DOMAIN-SUFFIX,sharepoint.com,direct
