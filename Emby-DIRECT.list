@@ -1,5 +1,7 @@
 # https://raw.githubusercontent.com/wang22691392/QuanX/master/Emby-DIRECT.list
 # 规则名称：Emby-DIRECT
+# 予初
+DOMAIN-KEYWORD,yusen,direct
 # 宸澄
 DOMAIN,media.wybcs.work,direct
 # peach
