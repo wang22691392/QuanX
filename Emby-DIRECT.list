@@ -1,5 +1,7 @@
 # https://raw.githubusercontent.com/wang22691392/QuanX/master/Emby-DIRECT.list
 # 规则名称：Emby-DIRECT
+# 微光短剧
+DOMAIN-SUFFIX,makifx.com,direct
 # 猫窝GD
 HOST-SUFFIX,mwyy.de,direct
 # 予初
